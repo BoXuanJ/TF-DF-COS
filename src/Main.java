@@ -82,7 +82,7 @@ public class Main
                   Tct[j]=count;
                   j++;
               }     
-              //计算条件概率 的估计值为t在c类文档中出现的相对频率
+              //计算条件概率的估计值为t在c类文档中出现的相对频率
               double Sigma=0;
               for(int x=0;x<Tct.length;x++)
               {
