@@ -50,7 +50,7 @@ public class Main
           double[][] condprob=new double[V.size()][classSet.size()];//条件概率
           int i=0;
           for(String c:classSet)
-          {
+          {//dasdas
               //CountDocsInClass,计算Nc，Nc为训练集合中c 类所包含的文档数目
               double Nc=0;//该类的文档数目
               String text="";//该类的文档
