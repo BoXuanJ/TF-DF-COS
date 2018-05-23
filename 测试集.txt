@@ -1,0 +1,499 @@
+#= 1
+#@ 201
+#! 2018年上半年光学工程专业硕士学位论文答辩公告（第二十六组）
+#% 日 期：2018年05月10日（星期四） 时 间：14:00-15:00 地 点：南区物理与光电楼1110会议室 答辩主席：王勇竞 正高级工程师 光子晶体科技有限公司 答辩委员：彭争春 特聘教授 深圳大学 邓元龙 教授 深圳大学 孙秀泉 教授 深圳大学 胡益民 高级工程师 深圳烯旺新材料科技股份有限公司 答辩秘书：黄建衡 助理教授 深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190208 胡时航 郭金川 微结构阳极X射线源制作关键工艺研究 2 2151190214 陈力 郭金川 X射线光栅相衬成像降噪技术研究 欢迎有兴趣的师生参加！
+
+#= 0
+#@ 202
+#! 学术讲座：三维音频技术
+#% 报告题目： 三维音频技术主讲嘉宾：殷福亮教授 大连理工大学邀请人：谢维信教授时间：2018年5月9日（周三） 下午3:00地点：深圳大学科技楼1504 嘉宾简介：殷福亮，大连理工大学信息与通信工程学院教授，博士生导师，辽宁省数字媒体处理与传输重点实验室主任，教育部跨世纪优秀人才，曾担任电子与信息工程学院院长(2000-2009)。多年来，一直从事语音与音频处理、图像处理与机器视觉、宽带无线通信的理论与应用研究，已主持完成国家自然科学基金项目、省部委科技项目、国际合作项目、华为技术有限公司项目等科研项目50多项，在IEEE等国内外重要学术刊物上发表学术论文150多篇，出版学术著作1部，拥有国家发明专利30多项，设计集成电路3款。曾获国家教育部科技进步一等奖、辽宁省优秀软件产品奖等科技奖励，荣获辽宁省优秀教学成果二等奖等教学奖励，荣获国务院政府特殊津贴、宝钢优秀教师奖等荣誉称号。会兼职有：中国电子学会信号处理专业委员会副主任委员，中国通信学会通信理论与信号处理委员会委员，教育部高等学校电子信息工程类专业教学指导委员会委员，《通信学报》编委，《信号处理》副主编等。
+
+#= 1
+#@ 203
+#! 学术报告：Liquid crystals photonic devices with periodic structur
+#% 题目：Liquid crystals photonic devices with periodic structure 时间：2018年5月10日上午9点 地点：深圳大学科技楼1409会议室 报告人： 罗丹（南方科技大学） Abstract: Liquid crystals (LCs), firstly discovered by Austrian botanical physiologist Friedrich Reinitzer in 1888, are substances with a phase of matter whose properties between those of a solid crystal and those of a conventional liquid. Due to the excellent electro-optical properties,liquid crystalsare sensitive to external stimulus such as electric field, temperature, optical radiationmechanical stress, and magnetic field, making liquid crystals an excellent candidate in display and photonic applications. Herein, we will introduce recently works in our group on liquid crystals photonic device. Several kinds of liquid crystals with photonic crystal structure from cholesteric liquid crystals, polymer-stabilized liquid crystals to blue phase liquid crystals have been utilized in fabrication of various photonic devices such as reflective color display, hyper-reflective film, directional laser, temperature sensor, and diffractive optical elements. Author Short Biography: Prof. Dan Luo received his B.S. degree in opto-electronic engineering from Tianjin University, China, in 2004, and the Ph.D. degree in electronic engineering from Nanyang Technological University (NTU), Singapore, 2012, respectively. He joined Southern University of Science and Technology (SUSTech) in 2013, as an Assistant Professor in Department of Electrical and Electronic Engineering. His research interests include organic tunable laser, novel reflective liquid crystal displays, liquid crystal tunable photonic/terahertz devices, electrically/optically controllable light shutters/smart windows and liquid crystal biosensor. He has published 65 papers in Advanced Optical Materials, Journal of Materials Chemistry C, Sensors and Actuators B: Chemical, Optics Express and so on. He also has 1 patent granted and 6 patents pending. He was the PI and Co-PI of 11 projects from National Natural Science Fund of Chinato Shenzhen Science and Technology Innovation Council.Prof. Luo was the recipient of Otto Lehmann Award, Germany, 2011; Chinese Government Award for Outstanding Self-Financed Students Abroad, 2011; SPIE Scholarship in Optics and Photonics, 2012; and IEEE Photonic Society Graduate Student Fellowships, 2012. He was also the recipient of Talent of Peacock Program B, Shenzhen, China. 欢迎广大师生参加！
+
+#= 1
+#@ 204
+#! 港澳台及国际交流工作月报（总第193期）
+#% 2018年4月30日 国际交流与合作部编 本期要目 u 美国北卡罗来纳州商务厅国际招商引资局刘弘彦局长、美国北卡华人企业协会会长程灿东博士一行来访深圳大学龙岗创新研究院。 u 澳门体育记者协会理事长方念湘先生带领澳门“校园记者计划”中学生参访团一行来访深圳大学传播学院，与师生进行交流，并参观了传媒国家级实验教学示范中心。 u 法司法适用中的法律解释学术座谈会”在深圳成功举行。 u 美国威尔明顿大学代表团来访深圳大学。 u 中国印尼大学合作与教育创新经验交流会在深圳大学举行。 u 澳大利亚科廷大学的副校长（主管国际事务）Seth Kunion、国际交流与合作部主管李博士及相关负责人来访深圳大学。 u 澳大利亚昆士兰大学周晓方教授和澳太国际工作人员一行来访深圳大学管理学院。 u 日本SGH财团、佐川急便物流大久保洁理事、奥山恭浩部长、菊地宏子顾问、保利佐川物流森田刚总经理、刘京副总经理，及广东省人民对外友好协会陈广海理事一行来访深圳大学经济学院。 4月1日 澳门大学舒连杰教授来我校统计科学研究所和数学与统计学院访问交流，并举办主题为“Evolution of Portfolio Optimization”的学术讲座。 2日 美国北卡罗来纳州商务厅国际招商引资局刘弘彦局长、美国北卡华人企业协会会长程灿东博士一行5人来访深圳大学龙岗创新研究院。在交流过程中，双方均表示可在双向招商引资、技术转移、产业化、互设办事处（或者研究院）、人才双向流动与交流、先进技术及企业落地、合作举办国际创新创业大赛等方面达成合作，发挥各自优势和资源，国际协同创新与发展，优势互补、携手共赢。 3日 日本东北大学吉野博（Hiroshi Yoshino）教授来我校土木工程学院馆举办主题为“Energy and Indoor Environment for Residential Buildings in China and Japan （中国和日本住宅建筑的能源和室内环境）”的学术报告。 3日 香港理工大学工商管理学院郭朋飞教授来我校管理学院参加管理科学前沿论坛（第64期），并举办主题为“Dancing Service Price When Customers Queue with Rating Information”的学术讲座。 4日 美国路易斯安那州立大学 (Louisiana State University）J Michael Mathis博士来我校医学部举办主题为“Adenovirus—based oncolytic virotherapy for breastcanc”的学术讲座。 4日 美国杨百翰大学舞蹈系终身教授、2017国家文化部最高奖“中华之光”传播中华文化年度人物奖获得者——黄嘉敏教授在国际会议厅为深圳大学艺术学院舞蹈系师生介绍美国舞蹈教育的新趋势。讲座期间，黄嘉敏教授通过案例分析、现场互动等多种形式提出教育之于学生所需要的“创造能力、表达能力及思辨能力”，同时表达了对国内舞蹈教育的展望。 9日 美国加州大学伯克利分校与深圳大学联合培养博士后Wenxia Lin来我校医学部举办主题为“Helicase Stepping Investigated with One-Nucleotid”的学术讲座。 10日 美国佐治亚大学杰出教授、美国艺术与科学学院院士、世界量子分子科学院院士、国际著名的量子化学专家Henry F. Schaefer III教授来我校化学与环境工程学院举办主题为“The Life of a Scientist”的学术讲座。 10日 澳大利亚国立大学工学院副院长(2011-2013)、研究中心材料加工制造组的带头人秦庆华教授来我校土木工程学院做题目为“Molecular Dynamics and Its Applications”的学术报告。 11日 香港心理卫生会资深培训导师区敏怡女士来我校西丽校区举办心理健康宣传月之“生活的反思与重整”的主题讲座。区女士期望通过系统的主题讲解促使参加者反思自己生活意义及价值，并鼓励为自己选择与订立正面的人生方向和目标，让自己得更丰盛。 11日 澳门体育记者协会理事长方念湘先生带领澳门“校园记者计划”中学生参访团一行31人来访我校传播学院，与师生进行交流，并参观了传媒国家级实验教学示范中心。方念湘理事长对深圳大学传播学院的师资及实验中心表示赞赏，对此次参访交流机会深表感谢，相信通过活动将进一步让学生扩阔视野，学习多角度思考及分析问题。 11日 德国汉诺威大学建筑学院院长，德国建筑师协会BDA理事，德国建筑与工程协会AIV理事，德国黑森州可持续发展环境研究会主席，施耐德+舒马赫建筑设计有限公司创始人、董事长米歇尔·舒马赫教授来我校建筑与城市规划学院举办主题为“情感抒发+逻辑表达”的学术讲座。 11日 日本东京工业大学Hiroshige Shiga教授来我校数学与统计学院举办主题为“On constructions of non-extendable holomorphic motion”的学术讲座。 11日 美国森林湖文理学院哲学系终身教授，神经学系兼职教授，亚洲所主任朱锐教授参加我校“深大人文论坛”（第281期），并举办主题为“神经哲学的前沿研究和趋势”的学术讲座。 12日 伊比利亚国际纳米科技实验室高级研究员，课题组长王中长博士来我校光电科技协同创新中心做题为“二氧化钛晶界的原子与电子结构重构”的学术报告。 13日 香港科技大学张召富博士来我校光电工程学院做题目为“基于第一性原理计算的GaN表面和界面性质研究”的学术报告。 13日 英国肯特大学王江舟教授来我校信息工程学院举办主题为“机器学习应用于未来移动通信”的学术讲座。 13日 美国森林湖文理学院哲学系终身教授，神经学系兼职教授，亚洲所主任朱锐教授参加我校“深大讲坛”第九十讲，并举办主题为“情感，理性和人脑的决策机制”的学术讲座。 13日 澳门大学管理和市场学系主任林朗为教授参加了深圳大学管理学院HRM新知论坛（第32期），并带来了一场精彩的学术论坛，演讲题目为“ Conducting two-way and three-way interaction research in management”。论坛由管理学院人力资源管理系文姗姗老师主持。此外，潘燕春副院长、丁夏齐老师、苏方国老师、丁婉玲老师、王荣老师等以及部分研究生参加了本次论坛。演讲开始的时候，林郎为教授用方程表达式的形式展示了两个交互项和三个交互项的基本模型。之后着重讲解了三个交互项的相关内容。三项交互模型包括了joint moderating effects,moderated moderating effects 和 moderated joint effects三种类型。并用国际期刊中的文献进行举例说明，通过绘图的形式为我们展示了出现各种交互项的可能性。林朗为教授建议管理学领域的研究者在研究三项交互模型反映的问题时应对三种类型加以区分，并结合正确的统计分析方法和图表展示数据分析过程及结果。 13日 台湾交通大学传播研究所郭良文教授来我校传播学院做题目为“从台湾报纸发行谈质化研究方法与民族志学”的学术讲座。 13日 台湾世新大学公共关系暨广告学系许安琪教授来我校传播学院做题目为“台湾广告研究之趋势与发展”的学术讲座。 13日 香港中文大学 Julian Lamb教授来我校外国语学院举办主题为“Drama and Determinants: Mourning Becomes Electra, Long Day’s Journey into Night, The Crucible”的学术讲座。 13日 法司法适用中的法律解释学术座谈会”在深圳成功举行。中国法学会党组成员、副会长张鸣起，全国人大常委会香港基本法委委员、北京大学法学院教授饶戈平，深圳大学党委书记刘洪一出席会议并致辞。中央政府驻港联络办法律部部长、香港基本法澳门基本法研究会会长王振民，香港城市大学法律学院副院长、教授林峰作主旨发言。深圳大学副校长、深圳市政协副主席黎军主持开幕式。来自内地与港澳的基本法领域知名专家学者和中央涉港相关单位代表近80人参加会议。 13日 美国威尔明顿大学副校长（负责外事）Dr. Peter Bailey、研究生院院长Dr. Kenneth Morlino、CMS Global CEO Charlie Nguyen 、CMS 全球中国运营主管William Du等人来访深圳大学，深圳大学杜宏彪副校长、国际交流与合作部彭小刚副主任、国际交流学院古维副院长在行政楼340室热情接待，并与代表团进行洽谈。座谈会上，双方互相介绍了学校的办学特色与所获成绩，并就合作项目进行初步探讨，希望进一步推动落实项目合作。会后，双方高校签订了项目合作协议，旨在通过合作，进一步加强交流学习，增进友谊，促进优势互补，彰显各自办学特色，助力我校教育国际化发展。 14日 中国印尼大学合作与教育创新经验交流会在深圳大学举行。会议由深圳大学主办，海龙国际教育创新研究院院长陈化北主持会议，深圳大学副校长王晖、计算机与软件学院副院长毛睿、国际交流学院副院长杨爱姣、国际交流学院副院长古维、印尼金锋集团董事长、世界福清社团联谊会主席、印中商务理事会总主席林文光博士在百忙中抽空出席交流会，与来自中国国内多所大学的校长、学者座谈，并与陈化北院长签署合作框架协议和成立倡议书。 16日 澳大利亚科廷大学的副校长（主管国际事务）Seth Kunion、国际交流与合作部主管李博士及相关负责人来访深圳大学。深圳大学杜宏彪副校长、国际交流与合作部何志平主任及文产院，数学与统计学院相关项目负责老师于行政楼207室接待了科廷大学代表团。科廷大学此次访问深圳大学，旨在讨论双方院校如何进一步深化合作。今年科廷大学和深圳大学文化产业研究院的博士合作项目第一批学生已经入校，科廷大学希望能和深圳大学在落实已签协议基础上开展更多领域合作。 16日 美国新泽西理工学院生物医学工程系Bharat Bhusan Biswal杰出教授来我校医学部举办主题为“高时间分辨率的功能连接”的学术讲座。 16日 新加坡国立大学Chew Soo Hong教授来我校经济学院举办主题为“Does Haze Cloud Financial Decision Making？ A Natural Laboratory Experiment”的学术讲座。 16日 新加坡SEC研究中心项目“Cooling Singapore（CS）”高级研究院和项目协调人Conrad博士来我校建筑与城市规划学院举办主题为“Cooling Singapore”的学术讲座。 17日 英国德蒙福特大学计算机科学与信息学院教授和计算智能研究中心主任杨圣祥教授来我校信息工程学院举办主题为“ Evolutionary Dynamic Optimisation: Current State and Challenges”的学术讲座。 17日 英国剑桥大学东方研究院博士生导师、国际知名语言学家袁博平教授来我校外国语学院做题目为“句法和语义的界面关系在习得汉语不及物动词中的重要性：对以英语为母语的汉语学习者的调查”的学术讲座。 17日 香港中文大学生命科学学院生物信息学研究助理教授QIN Jing博士来我校高等研究院举办主题为“Integrative OMICs Approaches for Biological and Biomedical Sciences ”的学术讲座。 17日 美国华盛顿大学担任研究助理Wei Zhao博士来我校高等研究院举办主题为“Energies of Adsorbed Catalytic Intermediates on Transition Metal Surfaces”的学术讲座。 18日 法国国家科学研究中心研究员和波尔多大学实验室 Xiaoqing Liu博士我校高等研究院举办主题为“Structure and Kinetic Study of Polyelectrolyte Complex Coacervate”的学术讲座。 18日 美国加州大学河滨分校教授、中国农业大学“长江学者”讲座教授、世界著名的植物病理学家、微生物学家丁守伟教授来我校生命与海洋科学学院做题目为“Antiviral RNAi in Plants and Animals”的学术报告。 18日 美国佐治亚州立大学应用语言学院院长、应用语言学领域世界知名学者、权威专家Diane Dewhurst Belcher教授来我校外国语学院做题目为“Global Perspectives on Academic Publishing（从全球视角谈学术出版）” 的学术讲座。 20日 香港中文大学 Julian Lamb教授来我校外国语学院举办主题为“Drama and Determinants II: Waiting for Godot, Happy Days, The Birthday Party, The Caretaker”的学术讲座。 20日 香港城市大学市场营销杨志林教授、博士来我校管理学院做题目为“The Effects of Supplier Capabilities on Manufacturers’Adoption of Innovation: The Moderating Role of Relational Embeddedness（供应商能力对制造商采用创新的影响：关系嵌入的调节作用）”的学术讲座。讲座由管理学院贾芳老师主持，管理学院部分老师及学生出席本次活动。在交流中，师生踊跃发言，就讲座内容展开了广泛的讨论。老师之间思想的激烈碰撞让在场师生获益匪浅。 20日 澳门大学法学院助理教授，澳门大学法学院国际商法硕士项目副主任Alexandr Svetlicinii教授来我校参加法学院“创新发展法治讲坛”第一讲，并做题目为“金砖国家在竞争法和竞争政策领域的合作”的学术讲座。 23日 美国华盛顿大学比较文学Marshall Brown教授来我校社会科学部举办主题为“The Heyday of the Short Story”的学术讲座。 23日 澳大利亚昆士兰大学（University of Queensland、UQ）周晓方教授等代表来我校管理学院做关于澳大利亚昆士兰大学项目宣讲交流会。 23日 德国杜塞尔多夫大学心理系主任Tobias Kalenscher教授来我校心理与社会学院举办主题为“How stress hormones influence judgment, choice and social preference”的学术报告。 23日 德国杜塞尔多夫大学临床神经科学与医学心理研究所研究员Bettina Studer,博士来我校心理与社会学院举办主题为“Enhancing motivation and competitive behaviour through the Illusion of Control”的学术报告。 23日 澳大利亚昆士兰大学周晓方教授和澳太国际工作人员一行4人来访深圳大学管理学院。管理学院李丽书记、潘燕春副院长、管理科学系副主任冯元粤和外事办公室工作人员接待了来访外宾。昆士兰大学代表第二次来访管理学院，此次来访是为了落实双方2+2合作项目的具体细节，双方就合作中可能出现的细节问题进行探讨，如课程修读、学习计划、学分互换以及学位认证等。会议持续了两个小时，落实了双方合作的诸多细节问题。此外，为了便于学生了解项目信息，为出国留学做好相关准备，当天晚上管理学院还携手计算机软件学院、师范学院，在图书馆南馆报告厅举行了深圳大学与昆士兰大学2+2项目推介会，并取得了良好的效果。 24日 英国牛津大学（Oxford University）Zhenbo Gao博士来我校高等研究院举办主题为“Construction of linear chiral centres via copper catalyzed additions”的学术讲座。 24日 日日本理化学研究所长聘高级研究员、东京大学理学院博士生导师梁豪兆教授来我校物理与能源学院举办主题为“原子核中的自旋与同位旋物理”的学术讲座。 24日 “看中国·外国青年影像计划”这一活动是由北京师范大学会林文化基金资助，中国文化国际传播研究院主办，深圳大学传播学院承办，深圳大学外国语学院协办的一项中国文化体验项目，旨在通过外国青年人视角，在两周时间内拍摄完成一部反映中国文化的纪录短片。来自斯洛伐克、阿根廷和哥伦比亚的外国青年导演，用两周时间拍摄的6部展现深圳“生态·生物·生活”的影片在深圳大学科技楼三号报告厅一一呈现。此次广东深圳行，6位外国青年和1位外国指导教师历时16天，通过文化考察和采风，确定选题，探索、感受、拍摄和表达中国文化中的“生态·生物·生活”，以他们独特的文化发现视角，解读他们眼中的“天人合一”、“绿色生态”。本次活动也打开了不同世界交流的大门。来自三个国家的6个青年导演在感知深圳的脉搏，为世界提供认识中国的新角度。深圳大学27位师生则通过活动感知着这三个国家的脉搏。 24日 台湾政治大学科技管理智慧财产研究所所长郑至甫博士、台湾政治大学副研发长宋皇志博士来访深圳大学管理学院。管理学院院长刘军、副院长潘燕春、工商管理系副系主任陈雪和外事办公室工作人员张瑞娜、张玉光接待了来访外宾。双方就创新创业方面进行深入交流，找到了许多契合点和合作的可能性。通过两个小时的交流，双方就以下几个方面达成了初步的合作意向：一是七月初台湾政治大学师生来管理学院参访，二是签署学生交换的合作备忘录，三是AACSB认证交流，四是教师学术交流。会谈氛围融洽，成果丰硕，相信两校合作的开启将会进一步促进海峡两岸师生的相互了解，为今后开展更深入、广泛的合作奠定基础。 24日 日本SGH财团、佐川急便物流大久保洁理事、奥山恭浩部长、菊地宏子顾问、保利佐川物流森田刚总经理、刘京副总经理，及广东省人民对外友好协会陈广海理事一行来访深圳大学经济学院。双方对共同感兴趣的话题进行了广泛的交流。还就安排深圳大学经院物流管理专业学生赴日暑期研修事宜交换了意见，日方与拟在今年暑期首批赴日研修的10名同学见面。并前往保利佐川物流深圳基地参观。总体而言，双方达成初步意向：1、加强深圳大学物流管理与保利佐川物流在产学研及学生实习、就业方面的全面合作；2、加强中日文化教育交流，将赴日研修合作项目常态化。 24日 美国华盛顿大学比较文学Marshall Brown教授来我校外国语学院做题目为“Going After Theory”的学术讲座。 24日 新加坡南洋理工大学化学与生物医学工程学院王东安副教授来我校医学部举办主题为“Living Hyaline Cartilage Graft (LhCG) for Cartila”的学术讲座。 25日 美国辛辛那提大学(University of Cincinnati)医学院和辛辛那提儿童医院医学中心（Cincinnati Children’s Hospital Medical Center）终身教授，辛辛那提大学分子与发育生物学研究生部主任蒋如朗教授来我校医学部举办主题为“Uncovering the Molecular and Developmental Mechan”的学术讲座。 25日 新加坡国立大学Chew Soo Hong教授来我校经济学院举办主题为“Introduction to Decision Genetics”的学术讲座。 25日 美国芝加哥罗斯大学(Rush University)医学院生物化学系系主任，终身教授，讲席教授(The John W. & Helen Watzek Professor in Biochemistry)陈棣教授来我校医学部举办主题为“CHIP controls bone remodeling through regulation”的学术讲座。 25日 深圳大学生命与海洋科学学院举办一系列关于海岸带及红树林湿地保育的学术讲座。台湾知名林业及自然保育人士陈章波研究员举办主题为“海岸带研究和环境教育的生态文明”的学术讲座；台湾知名自然保育人士谢蕙莲研究员举办主题为“我们的红树林生态系统研究经历及展望”的学术讲座。 26日 深圳大学图书馆前出现了一道亮丽的风景线——近20位来自国际交流学院中级A1班的留学生走进“朗读亭”，一个人读一段汉语文章，将无声的文字变成有声的朗读，他们兴奋地以这种方式体验着博大精深的中国文化。 26日 世界著名电子音乐家、国家千人计划专家Marc Battier教授及国家千人计划专家、教育部文化艺术专业委员会副主任、苏州科技学院音乐学院院长、著名指挥家陈正哲博士等一行到访我校师范学院（部）。此次交流活动内容十分丰富，首先，由国际音乐家周瑾、Jiyeon Kim、Maxim Mogilevsky三人带来的小提琴、大提琴、钢琴三重奏演出。其次是陈正哲博士为大家带来主题为《专业指挥的核心技能：动作时间点的把握》的讲座，最后由Marc Battier教授为大家作《电子音乐的趋势：科学与音乐的交叉》为主题的讲座。活动举办期间，深圳大学李清泉校长、深圳大学人事处陈智民处长、师范学院（部）领导钟曦院长、姚正武书记与专家们进行短暂会面，对此次重量级专家们一行的到来表示热烈欢迎和衷心感谢，并就双方的合作、相关专业的发展趋势等方面作了深层次的探讨。 27日 香港中文大学地理与资源管理系城市研究课程主任、亚太研究所和未来城市研究所副所长伍美琴教授来我校建筑与城市规划学院举办城市规划案例评析课程系列讲座——“共享蓝屋”的前世今生。 27日 德国慕尼黑理工大学物理系（Physics Department E20, Technical University of Munich）Yiqi Zhang（张毅奇）博士来我校高等研究院举办主题为“Engineering functional molecular nanomaterials at interfaces”的学术讲座。 27日 香港科技大学教授郭宇权（Yue Kuen Kwok ）教授来我校南特商学院参加商学思享Seminar(第9期）学术讲座，并举办主题为“ Equity-Credit Modeling for Contingent Convertibles”的学术讲座。 27日 香港法系列讲座第一讲《香港上市公司控制权纷争与跨境诉讼》在我校开讲。第一讲由两位嘉宾主讲：一位是香港资深大律师王鸣峰先生从理论角度与观众分享了普通法下跨境企业的搭建和其中的法律风险问题，特别是上市公司控制权争夺问题，历时1小时20分钟。另一位是香港大律师刘祉仁先生从实务角度、技术层面，结合具体案例，就上市公司控制权纷争跨境诉讼中股东的各种救济进行了分享，历时1小时30分钟。整场讲座非常精彩，涉及律师诉讼等多方面的技巧，和盘托出，毫无保留，听众直呼过瘾。 27日 意大利罗马大学Sapienza大学物理系教授、国家研究委员会复杂系统研究所所长、前ISC-CNR高级研究员Claudio Conti教授来我校光电科技协同创新中心举办主题为“Topological lasers（拓扑激光器）”的学术报告。 28日 香港珠海学院、香港红楼梦学会、深圳大学饶宗颐文化研究院客座教授张惠教授来我校参加“深圳大学人文讲学计划”暨“饶宗颐讲坛”（第十五讲），并举办主题为“从杜丽娘和朱丽叶看中西文化特质的差异”的学术讲座。 29日 香港珠海学院、香港红楼梦学会、深圳大学饶宗颐文化研究院客座教授张惠教授来我校参加“深圳大学人文讲学计划”暨“饶宗颐讲坛”（第十六讲），并举办主题为“从红楼梦看清人的婚姻观”的学术讲座。
+
+#= 1
+#@ 205
+#! 深圳大学艺术设计学院比利时安特卫普皇家美术学院海外学习中心第四期顺利结束
+#% 2018年2月10日，深圳大学艺术设计学院比利时安特卫普皇家美术学院海外学习中心第四期12名师生顺利抵达比利时安特卫普，展开为期三个月的学习交流。 本期学习团队分为环境艺术设计和动态图形设计两个学习小组，除各组的专业课程外，同学们还进行了素描速写、木板画创作、丝网印刷创作等艺术专业课程学习。同学们学习态度积极，学习活动顺利开展，他们的学习态度和专业能力得到了皇美全体教师的高度评价。 5月6日，在皇美举行的学习作品汇报展完美呈现了同学们的学习成果。比利时安特卫普皇家美术学院Jahan Pas 院长在展览开幕式致辞，他十分肯定本期同学的学习成果，并为各位同学颁发了学习证书。10位同学均通过考评，其中3位同学获得优秀成绩。 建立海外学习中心是艺术设计学院落实深圳大学国际化行动计划，推动《深圳大学文化创新发展纲要》实施的重要举措，今后艺术设计学院将继续办好海外学习中心，并积极探索多种中外合作办学模式。 艺术设计学院 2018年5月8日
+
+#= 1
+#@ 206
+#! 关于国家自然科学基金委员会对专业技术人员统计的通知
+#% 各相关单位： 国家自然科学基金委员会正在开展专业技术人员的统计工作，请各相关单位准确统计本单位所有中级及以上职称的专业技术人员信息，填写《国家自然科学基金委员会依托单位专业技术人员统计表》（附件1），于5月21日下午下班前将统计表发送至lijie@szu.edu.cn，纸质版加盖学院公章交至办公楼515室。具体填报说明请见《统计表填写说明》（附件2）。非直属附属医院的统计信息由医学部统计并汇总。 联系人：李洁 联系电话：26532350 科学技术部 2018-5-8
+
+#= 0
+#@ 207
+#! 学术讲座---固体材料热物性的第一原理计算和多尺度模拟
+#% 报告题目: 固体材料热物性的第一原理计算和多尺度模拟 主讲嘉宾：鲍华 博士 主持人: 李武 研究员 地点：深圳大学办公楼620-12 时间：2018年5月10日（周四）上午10：00 Talk abstract: 热导率是材料重要的物性之一。近年来固体传热理论研究的深入，使得通过第一原理计算来预测晶体材料本征热导率成为可能，包括通过第一原理提取力常数，进而获取晶格热导率；以及通过电子声子耦合的计算来获取电子热导率。另外一方面，对于复合材料、多孔介质等更为复杂的体系来说，则要考虑材料热导率的尺度效应，以及界面热阻等因素，因而需要通过多尺度模拟来研究其热输运物性。本次报告主要介绍鲍华课题组近期在晶体材料和复合材料热物性，以及声子和边界散射等领域的研究成果。 Biography:鲍华博士于2006年本科毕业于清华大学物理系，2012年在美国普渡大学机械工程学院获得博士学位。毕业之后加入上海交通大学密西根学院，历任助理教授、副教授。期间2014年3至5月美国普渡大学做短期访问学者，2016年1月至4月在美国克莱姆森大学短期访问。 鲍华教授课题组主要研究方向为微纳尺度下的传热机理，在电子器件热管理、复合能源材料等领域有较为重要的应用。在Nature Communications, Physical Review B, International Journal of Heat and Mass Transfer等物理和能源期刊上发表论文30余篇，受邀作为Scientific Reports期刊的编委会成员。获得国家自然科学基金青年项目、面上项目等资助，获得上海市自然科学基金的资助。 欢迎各位老师和同学们参加！
+
+#= 1
+#@ 208
+#! 2018年上半年建筑与土木工程（在职研究生）硕士学位论文答辩公告
+#% 日 期：2018年5月11日（星期五） 时 间：08:30-12:00 地 点：土木工程学院B401 答辩主席：李锦辉 教授，工作单位：哈尔滨工业大学深圳研究生院 序号 学号 姓名 指导教师 论文题目 1 20154314014 任帅铭 李伟文 低密度住宅结构选型探讨 2 20154314010 李传豹 王卫仑 高强混凝土在高层建筑中的优化应用 3 20154314018 邹浩勇 丁小波 大跨度结构柱托换有限元分析与监测技术 4 20141271016 赵蛟龙 苏栋 高耸广告牌结构风荷载计算及基础设计研究 5 20144314015 田玉婷 隋莉莉 成都某超限高层基于性能的抗震设计
+
+#= 1
+#@ 209
+#! 深圳大学国学精英班“志恒”学术奖学金获奖名单公示
+#% 经本人申请，提交学术论文，后经专家组匿名评审，共有10位同学获得2018年“志恒”学术奖学金。现将获奖名单公示如下： 序号姓名学号论文题目1李玲津2014010016《诗经原始》与《诗集传》方法论及诗旨解释之比较2马丹霞2014010185《小学考》整理本文字类研究3王承乾2014010195《固原史索岩墓朱雀图的粟特文化试析》4陈文浩2014080112曹丕“文气说”新探5柯文典2014170189《史记·夏本紀》与《尚书·禹贡》九州部分异同浅考证6林晓铭2015090136《古诗十九首》“代言体”初探7程慧榮2016010005《史记》引述《尚书》研究——以《尚书·汤誓》与《史记·殷本纪》的文本对比研究为例8翁晓华2016010086从《鄘》《邶》《卫》风中看卫国王室9史潮彬2016010161对司马迁所作《史记·老子韩非列传》中老子生平及成书的考证10黄相宜2016031010新研究成果下的《天问》再论 序号 姓名 学号 论文题目 1 李玲津 2014010016 《诗经原始》与《诗集传》方法论及诗旨解释之比较 2 马丹霞 2014010185 《小学考》整理本文字类研究 3 王承乾 2014010195 《固原史索岩墓朱雀图的粟特文化试析》 4 陈文浩 2014080112 曹丕“文气说”新探 5 柯文典 2014170189 《史记·夏本紀》与《尚书·禹贡》九州部分异同浅考证 6 林晓铭 2015090136 《古诗十九首》“代言体”初探 7 程慧榮 2016010005 《史记》引述《尚书》研究 ——以《尚书·汤誓》与《史记·殷本纪》的文本对比研究为例 8 翁晓华 2016010086 从《鄘》《邶》《卫》风中看卫国王室 9 史潮彬 2016010161 对司马迁所作《史记·老子韩非列传》中老子生平及成书的考证 10 黄相宜 2016031010 新研究成果下的《天问》再论 公示期为即日起至5月11日，如有异议，请和梁老师联系（文科楼2113，26536154）。 人文学院 2018年5月8日
+
+#= 1
+#@ 210
+#! 2018年上半年物理与能源学院硕士毕业论文答辩公告（一）
+#% 日 期：2018年5月11日（周五） 时 间： 13:00-17:00 地 点：物理与能源学院1101会议室（A1组-A5组） 答辩委员会主席：张杰 教授 暨南大学 答辩委员：赵海歌，高级工程师，深圳大学 童永彭，教授，深圳大学 刘国卿，教授，深圳大学 张晓明，副教授，深圳大学 许富明，副教授，深圳大学 答辩秘书：罗奇 实验师 组号 序号 学号 姓名 指导教师 论文题目 A1 1 2150100101 李嘉荣 王楠 双核模型框架下生成超重核的蒸发剩余截面的研究 2 2150100114 李理 王楠 中低能重离子碰撞中的碰撞参数混杂效应及同位旋物理的研究 3 2150100104 罗俊峰 马永健 Levitt＇s一氧化碳呼气法测红细胞寿命在慢性肾病贫血诊治的研究 4 2150100108 蔡文韬 殷园 小型压水堆稳态运行特性及主蒸汽管道破口事故敏感性分析 5 2150100117 郭汝敏 殷园 垂直圆管内超临界水上升流动传热的数值分析 6 2150100122 蔡怀方 万浪辉 应力对GeP3电子结构及输运性质的调控 A2 7 2150100102 邓伟 许富明 门电压调控下内嵌金属硼富勒烯的量子输运性质研究 A3 8 2150100106 金彦君 孙慧斌 弱束缚核7Li在靶核Z≈200处的破裂效应 A4 9 2150100119 王燕丹 张晓明 延迟耦合忆阻器混沌系统的时空动力学行为研究及模拟实验仿真 A5 10 2150100120 苏玲玲 刘国卿 深圳市大气颗粒物滞留时间与沉积速率多核素示踪研究
+
+#= 1
+#@ 211
+#! 2018年上半年物理与能源学院硕士毕业论文答辩公告（二）
+#% 日 期：2018年5月11日（周五） 时 间： 13:00-17:00 地 点：物理与能源学院1206会议室 （B1组-B5组） 答辩主席：刘彭义 教授 暨南大学 答辩委员：范平，教授，深圳大学 黄建军，教授，深圳大学 张东平，教授，深圳大学 罗景庭，副教授，深圳大学， 胡居广，副教授，深圳大学 答辩秘书： 刘木子，研究生秘书 组号 序号 学号 姓名 指导教师 论文题目 B1 1 2150100111 魏萌 范平 CoSb3基热电薄膜的制备及其热电输运特性的研究 2 2150100113 尹楣楣 范平 ZnSb热电薄膜的离子束溅射制备及其欧姆接触特性研究 3 2150100116 曾旸 范平 Cu2ZnSnS(Se)4薄膜太阳能电池吸收层的制备及器件优化的研究 B2 4 2150100112 吴亦哲 黄建军 等离子喷涂热障涂层/钨涂层的电子束重熔改性研究 B3 5 2150100103 全傲杰 罗景庭 ZnO压电薄膜生长及声表面波器件研究 B4 6 2150100105 关天锐 张东平 ZnO缓冲层对VO2薄膜光电特性的影响 7 2150100110 秦晓楠 张东平 二氧化钒薄膜的离子辐照效应及其光电性能研究 8 2150100107 姚松 贺廷超 多色小分子的超快非线性光学和手性光学行为研究 9 2150100115 黄金玉 杜宇 纳米ZnO的制备及其气敏特性的研究 10 2150100121 何伟坚 王世兴 铜铟硒膜的单靶磁控溅射及离子注入研究 B5 11 2150100109 肖惑 胡居广 铜锌锡硫薄膜的制备、刻蚀及薄膜太阳能电池制备
+
+#= 1
+#@ 212
+#! "中国知识产权深圳讲坛”第一百五十一讲：企业知识产权管理
+#% 讲座题目：标准必要专利的撰写及无效；企业项目式知识产权管理实践 主讲嘉宾：熊永强（三环知识产权深圳总部总经理、深圳市专利协会副会长、国际商标协会会员、深圳知识产权专家库专家） 讲座时间：2018年5月12日（星期六） 下午14:00—17:00 讲座地点：深圳大学文科楼H5-204 主办单位： 深圳大学国家知识产权培训（广东）基地 最高人民法院深圳大学中国知识产权司法保护理论研究基地 深圳大学法学院（知识产权学院） 广东省深圳大学知识产权培训基地 欢迎感兴趣的师生参加！
+
+#= 1
+#@ 213
+#! "中国知识产权深圳讲坛”第一百四十九讲：互联网版权的热点问题
+#% 讲座题目：互联网版权的热点问题 主讲嘉宾：祝建军（深圳大学法学院副院长，深圳市中级人民法院知识产权庭副庭长，法学博士、博士后） 讲座时间：2018年5月6日（星期日） 上午9:00-12:00；下午14:00—17:00 讲座地点：深圳大学文科楼H5-204 主办单位： 深圳大学国家知识产权培训（广东）基地 最高人民法院深圳大学中国知识产权司法保护理论研究基地 深圳大学法学院（知识产权学院） 广东省深圳大学知识产权培训基地
+
+#= 1
+#@ 214
+#! 2018年上半年光学工程专业硕士学位论文答辩公告（第二十四组）
+#% 2018年上半年光学工程专业硕士学位论文答辩公告（第二十四组） 日 期：2018年05月11日（星期五） 时 间：14:00-15:00 地 点：南区物理与光电楼1212会议室 答辩主席：张岩 教授 哈尔滨工业大学（深圳） 答辩委员：杨勤劳 研究员 深圳大学 郭金川 教授 深圳大学 段子刚 教授 深圳大学 牛丽红 教授 深圳大学 答辩秘书：黄建衡 助理教授 深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190124 刘顺祥 文侨 基于新型二维材料可饱和吸收体超短脉冲光纤激光器研究 2 2150190129 卢建新 文侨 小型纳秒激光器的研制 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 215
+#! 2018年上半年光学工程专业硕士学位论文答辩公告（第二十二组）
+#% 2018年上半年光学工程专业硕士学位论文答辩公告（第二十二组） 日 期：2018年05月11日（星期五） 时 间：13:00-14:00 地 点：南区物理与光电楼1212会议室 答辩主席：张岩 教授 哈尔滨工业大学（深圳） 答辩委员：杨勤劳 研究员 深圳大学 郭金川 教授 深圳大学 段子刚 教授 深圳大学 文侨 副教授 深圳大学 答辩秘书：黄建衡 助理教授 深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190111 王传秀 牛丽红 1550nm 全光纤相干多普勒激光测风雷达研究 2 2150190113 袁清钰 牛丽红 条纹管激光雷达水下三维成像及图像处理研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 216
+#! 2018年上半年光学工程专业硕士学位论文答辩公告（第二十三组）
+#% 2018年上半年光学工程专业硕士学位论文答辩公告（第二十三组） 日 期：2018年05月11日（星期五） 时 间：15:00-15:30 地 点：南区物理与光电楼1212会议室 答辩主席：张岩 教授 哈尔滨工业大学（深圳） 答辩委员：杨勤劳 研究员 深圳大学 段子刚 教授 深圳大学 牛丽红 教授 深圳大学 文侨 副教授 深圳大学 答辩秘书：黄建衡 助理教授 深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190109 洪振厚 郭金川 X射线CT成像的滤波器设计与深度学习降噪研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 217
+#! 2018年上半年建筑与土木工程硕士学位论文答辩公告（第二组）
+#% 日 期：2018年5月9日（星期三） 时 间：15:30-17:30 地 点：土木工程学院B401 答辩主席：李东风 教授，工作单位：哈尔滨工业大学 序号 学号 姓名 指导教师 论文题目 1 2150150406 廖勇 王卫仑 微胶囊相变维护墙体节能效果的研究 2 2151150203 盛俊雄 王卫仑 框架结构大跨度大截面预应力梁托梁拔柱数值模拟及时程 分析 3 2151150202 方成 王险峰 基于陶粒内置碳源自愈合水泥基材料的实验研究 4 2151150214 梁雪冰 周海俊 滨海环境腐蚀钢筋混凝土材料及桥梁墩柱构件力学性能退化的试验研究
+
+#= 1
+#@ 218
+#! 2018年上半年技术经济及管理硕士学位论文答辩公告（第二组）
+#% 日 期：2018年5月10日 时 间：18:30-20:30 地 点：文科楼H1-403 答辩主席：周艳菊 序号 学号 姓名 指导教师 论文题目 1 2150060517 刘津汝 陈雪 银行关联与企业债务融资——基于金融发展水平门槛效应的实证研究 2 2150060518 刘会 初大智 组织邻近、技术邻近对知识溢出速度的影响研究——以中国生物技术专利引用为例 欢迎有兴趣的师生参加！ 管理学院 2018年5月8日
+
+#= 1
+#@ 219
+#! 2018年上半年技术经济及管理硕士学位论文答辩公告（第一组）
+#% 日 期：2018年5月10号 时 间：18:30-19:30 地 点：文科楼H1-403 答辩主席：周艳菊 序号 学号 姓名 指导教师 论文题目 1 2150060513 张余鑫 陈艳艳 产品众筹支持者参与行为对公民行为的影响作用研究 2 2150060520 黄娟 陈雪 上市公司自媒体信息披露情绪对股价的影响——基于Fama-French因子模型的实证研究 欢迎有兴趣的师生参加！ 管理学院 2018年5月8日
+
+#= 1
+#@ 220
+#! 2018年上半年行政管理硕士学位论文答辩公告（第六组）更新
+#% 日 期：2018年5月11日 时 间：15:30-17:00 地 点：文科楼H3—203 答辩主席：吴克昌 序号 学号 姓名 指导教师 论文题目 1 2150060409 薛月明 杨龙芳 中国土壤污染防治政策变迁研究—基于2006-2017年土壤污染典型案例的分析 2 2150060410 韩梦璐 杨龙芳 中国经济学家参与政策过程的目标路径分析 3 2140060408 刘健 杨龙芳 社会智库参与政策过程研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 221
+#! 电子科学与技术学院2018年学术报告会之十七-A Low-Profile Metamaterial Loaded Ant
+#% 题目：A Low-Profile Metamaterial Loaded Antenna Array with Anti-Interference and Polarization Reconfigurable Characteristics 报告人：冯波涛 时间： 5月11日（星期五） 下午15:00 地点：南区电子科学与技术学院811会议室 报告内容：A low-profile metamaterial loaded antenna array with anti-interference and polarization reconfigurable features is proposed for base-station communication. Owing to the dual notches etched on the radiating electric dipoles, an impedance bandwidth of 75.6% ranging from 1.68 to 3.72 GHz with a notch band from 2.38 to 2.55 GHz can be achieved. By employing the metamaterial loadings that are arranged in the center of the magnetic dipole, the thickness of the proposed antenna can be decreased from 28 to 20 mm. Furthermore, a serial feeding network that consists of several wilkinson power dividers and phase shifters is introduced to attain the conversion between dual linear polarization and triple circular polarization. Hence, the antenna could meet the demand of the future 5G intelligent application. 报告人简介 Botao Feng (M’14) received the B.S. and M.S. degrees in communication engineering from the Chongqing University of Posts and Telecommunications, Chongqing (CQUPT), China, in 2004 and 2009, respectively, and the Ph.D. degree in communication and information system from the Beijing University of Posts and Telecommunications (BUPT), Beijing, China, in 2015. He joined the Dongguan Branch of Nokia Mobile Phones Ltd., China, as a Senior Communication Engineer in 2004. He joined China United Network Communications Co. Ltd., from 2009 to 2012, where he was involved in the optimization of mobile network. He is currently a Postgraduate Advisor and a Post-Doctoral Advisor with Shenzhen University, Guangdong, China. He is also the head of the Laboratory of Wireless Communication, Antennas and Propagation of College of Electronic Science and Technology, Shenzhen University, the Director of the Joint Laboratory of Antenna and Electromagnetic Propagation of Shenzhen University-Rihai Communication Technology Co., Ltd, and the Director of the Joint Laboratory of Antenna and Microwave Technology of Shenzhen University-Skywave Communication Technology Co., Ltd. His research interests are base-station antenna, microcell antenna, indoor antenna, and wireless network optimization. He has authored more than 30 SCI and EI indexed papers, and has 10 invention patents. In addition, he is the Peer Reviewer and Technical Committee Member of several IEEE/IET journals and conferences on microwave technique and antenna. Now, he and his team members are conducting over 10 projects about 5G antenna which are supported by natural science funds and corporate founds. 欢迎有兴趣的师生参加！ 电子科学与技术学院 2018年5月7日
+
+#= 0
+#@ 222
+#! 2018年度深圳南特商学院“人文社会科学讲学计划”系列讲座第三讲
+#% 主 题：聚焦双一流建设 着力科研项目申请 主讲人：寇纲，西南财经大学教授 时 间：2018年5月16日，下午3：30 – 5:00 地 点：深圳大学科技楼一楼深圳南特商学院1号教室 主持人：张凯，深圳南特商学院教授 交流语言：中文 内容简介： 在当前双一流建设如火如荼的情景下，学校都在着力打造一流科研和一流教学。双一流建设名单不是终身制，第四次教学评估成绩与ESI指标在其中起到了重要作用，而作为科研的重要指标，科研项目的申请对于学者来说尤为重要。讲座将介绍科学基金项目申请的关键内容与注意事项。 主讲人介绍： 寇纲，博士、教授，博士生导师，长江学者特聘教授，西南财经大学工商管理学院执行院长。担任International Journal of Information Technology & Decision Making等6个SCI期刊主编或编委。曾获教育部自然科学一等奖、国家杰出青年科学基金、首届国家优秀青年基金、全球高被引科学家、中国管理学青年奖、四川省有突出贡献的优秀专家等多项荣誉与奖励；发表SCI论文65篇，SSCI论文29篇；其中9篇论文被美国基本科学指标ESI列为领域学科前百分之一的高引用论文；主持包括国家杰出青年科学基金“大数据化决策表征”和国家社会科学基金重大项目“国家信用体系建设与信用大数据应用研究”等多项国家级科研项目。 欢迎广大师生参加！ 深圳南特商学院简介： 深圳南特商学院（SABS）是一所由国内知名学府深圳大学与法国南特高等商学院合作建立的以深圳为标识、按照国际精英商学院模式办学的国际化研究型商学院。深圳南特商学院将依托深圳，为中国、欧洲乃至世界的专家提供一个创新性研究平台，同时也为高级管理人员、专业人士和研究生提供先进的国际课程，它将是商业和管理精英的聚集地。
+
+#= 0
+#@ 223
+#! 2018年度深圳南特商学院“人文社会科学讲学计划”系列讲座第一讲
+#% 主 题： Visual Effects in Consumer Psychology 主讲人：Yuwei Jiang (姜宇威) 香港理工大学副教授 时 间：2018年5月16日，上午10:30 – 12:00 地 点：深圳大学科技楼一楼深圳南特商学院1号教室 主持人：尼娜，深圳南特商学院管理学副教授 交流语言：英语 内容简介： Visual information is frequently encountered by consumers in their consumption experiences, such as product and package design, marketing communications, and various visual stimuli used in the consumption environment. In this talk, I will first present a theoretical review of the recent marketing and consumer literature investigating the impact of visual information on consumers’ perception, affect, and cognition, and their downstream consequences on consumer behavior. Then I will use several of my own research projects to exemplify how to examine the impact of social and contextual influence on visual marketing effects. 主讲人介绍： Dr. Yuwei Jiang (姜宇威) is an Associate Professor of Marketing in the Department of Management and Marketing, Faculty of Business, the Hong Kong Polytechnic University. He is currently an Associate Editor of the Journal of Consumer Psychology, and a Guest Associate Editor of the Journal of Consumer Research. Dr. Jiang’s research interests are in the area of consumer psychology. Most of his research involves how consumers judgments and decisions are influenced by sensory marketing information, affect and emotions, and the social environment. He has published research papers on top-tier academic journals such as Journal of Consumer Research, Journal of Marketing Research, Journal of Consumer Psychology, Strategic Management Journal, Organizational Behavior and Human Decision Processes, Journal of Association for Consumer Research, and Journal of Experimental Social Psychology. Dr. Jiang received his PhD degree in Marketing from the Hong Kong University of Science and Technology (HKUST) in 2009, and was awarded the Marketing Science Institute (MSI) Young Scholar in 2015. 欢迎广大师生参加！ 南特商学院简介： 深圳南特商学院（SABS）是一所由国内知名学府深圳大学与法国南特高等商学院合作建立的以深圳为标识、按照国际精英商学院模式办学的国际化研究型商学院。深圳南特商学院将依托深圳，为中国、欧洲乃至世界的专家提供一个创新性研究平台，同时也为高级管理人员、专业人士和研究生提供先进的国际课程，它将是商业和管理精英的聚集地。
+
+#= 0
+#@ 224
+#! 2018年度深圳南特商学院“人文社会科学讲学计划”系列讲座第二讲
+#% 主 题：大数据：特征与应用 主讲人：寇纲，西南财经大学教授 时 间：2018年5月16日，下午2：00 – 3:30 地 点：深圳大学科技楼一楼深圳南特商学院1号教室 主持人：张凯，深圳南特商学院教授 交流语言：中文 内容简介： 近年来大数据发展迅速，在这个数据驱动的时代，我们如何理解大数据，如何利用数据解决实际问题，又要注意哪些大数据带来的问题。本次讲座将从大数据层次和特征入手，介绍大数据的主要典型应用和背后的算法支撑，并探讨大数据时代我们需要注意的隐私和歧视问题。 主讲人介绍： 寇纲，博士、教授，博士生导师，长江学者特聘教授，西南财经大学工商管理学院执行院长。担任International Journal of Information Technology & Decision Making等6个SCI期刊主编或编委。曾获教育部自然科学一等奖、国家杰出青年科学基金、首届国家优秀青年基金、全球高被引科学家、中国管理学青年奖、四川省有突出贡献的优秀专家等多项荣誉与奖励；发表SCI论文65篇，SSCI论文29篇；其中9篇论文被美国基本科学指标ESI列为领域学科前百分之一的高引用论文；主持包括国家杰出青年科学基金“大数据化决策表征”和国家社会科学基金重大项目“国家信用体系建设与信用大数据应用研究”等多项国家级科研项目。 欢迎广大师生参加！ 深圳南特商学院简介： 深圳南特商学院（SABS）是一所由国内知名学府深圳大学与法国南特高等商学院合作建立的以深圳为标识、按照国际精英商学院模式办学的国际化研究型商学院。深圳南特商学院将依托深圳，为中国、欧洲乃至世界的专家提供一个创新性研究平台，同时也为高级管理人员、专业人士和研究生提供先进的国际课程，它将是商业和管理精英的聚集地。
+
+#= 1
+#@ 225
+#! 学术报告十二_硅基光伏：从材料优化、器件结构设计到高效太阳电池
+#% 题目：硅基光伏：从材料优化、器件结构设计到高效太阳电池 时间：2018年5月10日（星期三）下午4:00 地点：北校区科技楼612会议室 报告人：侯国付 教授（南开大学） 摘要： 提高转换效率和降低制造成本始终是太阳电池研究中的核心和关键问题！为了获得高转换效率，既需要对各层材料的结构特征和光电性能进行优化，更需要对器件结构进行详细设计。硅太阳电池是目前技术最成熟、应用最广泛的光伏电池，而且在未来很长一段时间内都将在光伏市场中占据主导地位。本报告将以硅基薄膜三结叠层太阳电池和单晶硅异质结太阳电池为例，就如何通过材料优化和器件结构设计来实现高转换效率进行分析和讨论。 报告人简介：
+
+#= 1
+#@ 226
+#! 学术报告十一_高功率超连续谱光源
+#% 题目：高功率超连续谱光源 时间：2018年5月9日（星期三）下午3:00 地点：北校区科技楼612会议室 报告人：陈胜平 副研究员（国防科技大学） 摘要： 超连续谱光源，俗称“白光激光器”，同时具有传统宽带光源的宽光谱特性和激光光源的高亮度特性，在基础科学研究、工业及国防领域具有较为广泛的应用潜力。相比光纤激光器而言，超连续谱光源的功率提升面临更多的瓶颈问题，本报告将介绍这些瓶颈问题及解决这些问题的关键技术与途径。 报告人简介： 陈胜平，男，副研究员，硕士生导师。2001年和2007年分别获得南开大学学士和博士学位，2011年赴英国南安普顿大学光电子研究中心访学，现为国防科技大学前沿交叉学科学院教师。主要研究脉冲光纤激光器及高功率超连续谱光源。成果获湖南省技术发明一等奖和天津市自然科学一等奖各一次。
+
+#= 1
+#@ 227
+#! 学术报告十_先进三维微纳加工技术及其应用
+#% 题目：先进三维微纳加工技术及其应用 时间：2018年5月9日（星期三）下午2:30 地点：北校区科技楼612会议室 报告人：李家方 副研究员（中国科学院物理研究所） 摘要： To date, the drive to realize three-dimensional (3D) plasmonic nanostructures, such as optical metamaterials and nano-antennas, faces major challenges in producing metallic nanostructures with sophisticated shapes, easily definable orientations, and smooth surfaces that are operational in the optical region. Here we report on two of our recent progresses in the advanced 3D nanofabrication and its applications in plasmonics. The first is direct laser writing of symmetry-broken spiral tapers for 3D polarization-insensitive plasmonic focusing, which has been successfully demonstrated as a near-field scanning optical probe. The second is focused-ion-beam based shape transformation of exotic 3D metamaterials with unusual Fano resonances and giant optical chirality. These two methodologies could help to produce unique 3D plasmonic nanostructures opening up new avenues for the intriguing manipulation of light-matter interaction. 报告人简介：
+
+#= 0
+#@ 228
+#! 城市规划案例评析课程系列讲座——华强北电子产业集群和中美贸易摩擦对中国电子信息产业的影响
+#% 题 目：华强北电子产业集群和中美贸易摩擦对中国电子信息产业的影响 主讲人：程一木（深圳市电子商会执行会长） 时 间：2018年5月11日（星期五）14:30 地 点：深圳大学 城市与建筑规划学院 C201 个人简介
+
+#= 1
+#@ 229
+#! 2018年上半年信息与通信工程专业博士学位论文答辩公告
+#% 日期：2018年5月9日（星期三）上午 9:00-12:00 地点：科技楼1504会议室 答辩主席：张钦宇，教授，博导，哈尔滨工业大学深圳研究生院 答辩委员：殷福亮，教授，博导，大连理工大学 裴继红，教授，博导，深圳大学 杨烜，教授，博导，深圳大学 曹文明，教授，深圳大学 答辩秘书：高志坚，实验师，深圳大学 序号 学号 姓名 指导教师 论文题目 1 2126130104 曹建宇 谢维信 一种含有批量马尔可夫到达过程和优 先服务的双队列循环轮询系统的研究 2 2136130103 闻辉 谢维信 核自适应学习的RBF混合结构神经网络分类器研究
+
+#= 1
+#@ 230
+#! 光电工程学院屈军乐教授团队在《Chemical Society Reviews》发表重要综述
+#% 近日，深圳大学光电工程学院屈军乐教授团队在Chemical Society Reviews（影响因子38.618，中科院JCR 1区，TOP期刊）上发表了题为 《Crucial breakthrough of second near-infrared biological window fluorophores: design and synthesis toward multimodal imaging and theranostics》的综述性学术论文。该团队和树庆博士是第一作者，屈军乐教授、宋军教授以及斯坦福大学医学院程震教授为共同通讯作者，深圳大学为第一和共通讯单位。 荧光成像主要依靠荧光探针标记技术跟踪观察生物组织和细胞中感兴趣区域的变化信息。荧光成像不仅快捷简便，无辐射损伤，而且灵敏度高，能够实现病变组织的早期诊断和实时成像。按成像波长，主要分为可见光成像（400-700nm），近红外一区成像（700-1000nm）和近红外二区成像（1000-1400nm和1500-1700nm）。与可见光和近红外一区相比，近红外二区具有更弱的生物组织吸收和散射作用，更深的穿透深度和更高的信噪比。近年来，近红外二区荧光探针取得了巨大进展，主要包括（附图）：有机染料分子（organic dyes），稀土掺杂纳米颗粒（rare earth doped nanoparticles）, 量子点（quantum dots）和单壁碳纳米管（single-walled carbon nanotubes）。另外，光电探测及成像技术的发展，也为近红外二区成像的发展和应用奠定了基础。本课题组在前期工作的基础上，系统总结了各种近红外二区荧光探针的发光机理与制备方法，详细介绍了其在生物成像、疾病诊疗中的应用，并讨论了近红外二区荧光探针的设计与构建的基本策略以及它们在临床转化应用中所面临的机遇和挑战。 该工作得到了国家基础研究发展计划（973）项目、国家自然科学基金项目、 广东省自然科学基金创新团队项目、广东省普通高校国际暨港澳台合作创新平台及国际合作以及深圳市基础研究计划项目的支持。 论文链接：http://pubs.rsc.org/en/content/articlelanding/2018/cs/c8cs00234g#!divAbstract
+
+#= 1
+#@ 231
+#! 第十四届文博会深大文化创意园分会场开幕式及分会场系列活动通知
+#% 第十四届文博会深大文化创意园分会场开幕式及 分会场系列活动通知 全校各单位： 第十四届中国（深圳）国际文化产业博览交易会深大文化创意园分会场开幕式将于2018年5月9日下午2:30分，在深圳大学元平体育馆举行。本届开幕式邀请到中国奥委会、国家体育总局、市政协、市文体局、南山区政府等相关领导出席开幕仪式。本届分会场开幕式同时将举办深圳大学粤港澳大湾区电竞实验室地揭牌仪式、“印象杯”设计大赛颁奖仪式和签约仪式。 深圳大学已经连续十一届被认定为中国（深圳）国际文化产业博览交易会分会场。分会场曾用名深大分会场、深大荔园分会场，2018年更名为深大文化创意园分会场。深大文化创意园分会场依托美术、设计、传媒、建筑、演艺、影视、旅游七大创意部落，锁定“学术、高端、原创”品牌定位与发展特色，坚持走高端艺术原创到文化产业的“产、学、研”一体化的道路。经过多年的发展，深大文化创意园分会场会展内容从艺术原创作品展示、销售到大型文化活动的举办，国际化交易平台的搭建有了质的飞跃。通过文博会分会场的举办，将艺术原创、学术研究、文化产业链的形成有机的结合在一起，积极探索中国高端文化艺术创意与产业化的发展路径。 本届深大文化创意园分会场将以“传承创新 文化荔园”为主题，推出“传承创新、文化创新、文化消费”三大板块13项活动。为进一步发挥体育文化在城市建设中的作用，分会场今年首次引进“首届体育文化产业创新展”，力争把深大文化创意园分会场打造成独具特色的大学生文化创新创业展示与交易平台。 第十四届文博会深大文化创意园分会场各活动一览表 时间： 2018年5月9日——14日 序号 活动名称 时间、地点 承办单位 1 深大文化创意园分会场开幕式 时间：2018年5月9日下午2:30——3:30 地点：元平体育馆 深大文博会分会场管委会办公室 深圳大学体育产业发展中心 2 首届体育文化产业创新展 时间：2018年5月9日—12日 地点：元平体育馆 深圳大学体育产业发展中心 3 2018国际植物染艺术联展系列活动 时间：2018年5月9日—14日 地点：科技楼一楼大厅 罗莹植物染草木兰兮团队 4 第六届建筑文化节 时间：2018年5月9日—25日 地点：深圳大学建规学院院馆 建规学院 5 “创意回廊”作品展 时间：2018年5月9日-14日 地点：深圳大学南校区传艺大楼二楼 传播学院 6 创意梦广场 时间：2018年5月11日-13日 地点：深圳大学南校传艺大楼一楼 传播学院 7 深圳大学第四届校园原创音乐大赛 时间：5月11日晚7点—9点 地点：演会中心 金钟音乐学院 图书馆 8 第三届深大印象杯文创设计大赛 时间：2018年5月9日—14日 地址：科技楼一楼 深圳大学品牌文化店 9 2018深圳大学美术系毕业作品展 时间：2018年5月9日-14日 地点：深圳大学艺术村美术馆 师范学院美术系 10 2018服装设计专业毕业作品发布会 时间：2018年5月12日下午4点 地点：深大南区艺术设计学院大楼三楼展厅 设计学院服装设计系 11 校园十大歌手大赛 时间：2018年5月13日晚7:00——9:00 地点：深大西丽校区体育馆 校团委 12 3号艺栈艺术家创意作品展 时间：2018年5月9日—14日 地点：3号艺栈 3号艺栈管理办公室 13 荔园青年文化创意作品库 时间：2018年5月9日—14日 地点：科技楼一楼大厅 校团委 欢迎全校师生参加！ 深圳大学文博会分会场管委会管理办公室 2018年5月2日
+
+#= 1
+#@ 232
+#! 关于组织申报2018年广东省档案局科研项目的通知
+#% 各相关单位及个人： 根据《关于组织申报2018档案局科研项目的通知》（粤档函【2018】118号，见附件1），请有意申报的老师根据通知中《2018年广东省科研项目立项选题指南》所列研究范围和方向确实选题，申报此项目。 请申报老师于2018年5月8日10：00前将《广东省档案局科研项目计划任务书》（见附件2，或者在广东档案信息网www.da.gd.gov.cn”科技教育”栏的下载区中下载）一式4份交于529室。联系人：李飞 26532359，电子版发送到lifei2264@163.com 社会科学部 2018年4月29日
+
+#= 0
+#@ 233
+#! 讲座通知：论税收国家的法律基础
+#% 主讲嘉宾：张富强 教授 讲座时间：2018年5月8日晚7:00 讲座地点：图书馆（北馆）二楼会议室 主讲嘉宾简介： 张富强，华南理工大学法学院教授，华南理工大学财经法研究所所长，博士生导师；中国法学会财税法学研究会副会长、广东省法学会财税法学研究会长。1982年和1985年先后获得浙江大学（原杭州大学）历史学本科和硕士学位；1988年获得华中师范大学历史学博士学位；1995年和1997年先后获得历史学教授和法学教授资格；专业特长：经济法、财税法；1993－1994年英国伦敦大学玛丽王后学院访问学者；1996年美国国务院高级访问者；1999-2000年美国哥伦比亚大学法学院高级访问学者；2006年美国马里兰大学短期访问学者。 代表性专著有《经济法通论》、《近代法制改革者：伍廷芳》、《构建和谐广东的法律思考》；代表性论文有《论税收国家的基础》（《中国法学》2016年第2期）、《纳税权入宪入法的逻辑进路》（《政法论坛》2017年第4期）、《论税收宏观调控中纳税人信赖利益的保护》（《法律杂志》2016年第9期、《论营改增试点扩围与国民收入分配正义价值的实现》（法学家》2013年第4期。 欢迎师生们参加！ 法学院 2018年5月8日
+
+#= 1
+#@ 234
+#! 2018年“婚姻家庭建设”理论研究课题指南（民政部）
+#% 各相关单位及个人： 民政部社会事务司发布2018年“婚姻家庭建设”理论研究课题指南，欢迎积极参与研究。 ﻿﻿ 一、参考选题 指南详情及以下提到的所有附件请查看民政部网址并下载附件http://www.mca.gov.cn/article/zwgk/tzl/201804/20180400008473.shtml 二、课题申报 1.﻿﻿课题面向各级机关、企事业单位、科研院所、社会组织和个人。申报者需填写《民政部2018年课题研究申请书》（附件1），签名后一式三份于5月8日10：00前交到办公楼529室，联系人李飞 26532359同时发送申报材料电子版。电子邮箱:mzbhunyin@163.com（接收电子文本。发送电子邮件的主题及附件标题请规范填写申报者姓名、具体题目及所在单位信息。示例：“李某某：***研究（***大学***学院）” 2. ﻿﻿民政部社会事务司将组织专家对课题申请进行评审，确定和公布课题承担者,并与承担者签订《民政部科研任务书》（附件2）。 ﻿﻿ 三、研究要求 ﻿﻿1、研究报告要观点明确，内容翔实，文风严谨，行文规范，达到公开发表和出版的要求，原则上不少于5000字，且未在刊物上公开发表（具体要求见附件3）。文字责任由课题负责人或研究报告作者承担。﻿﻿ ﻿﻿2、研究报告需在2018年9月30日前提交。民政部社会事务司将组织有关专家进行统一评审验收，对完成研究任务且研究成果合格的予以结题，否则不予结题。﻿﻿ ﻿﻿3、研究成果由民政部社会事务司与作者共同所有，未经民政部社会事务司同意不得公开发表。对通过评审的课题成果给予适当奖励。﻿﻿﻿﻿﻿﻿ 社会科学部 2018年4月25日
+
+#= 1
+#@ 235
+#! 关于深圳市哲学社科“十三五”规划2018年度课题申报的通知
+#% 各有关单位: 根据《深圳市哲学社会科学规划课题管理办法》要求，深圳市哲学社会科学“十三五”规划2018年度课题申报工作正式启动。现将有关事项通知如下： 一、本次年度课题的申报面向全市，实行公开申报、平等竞争、择优立项的原则； 二、本次年度课题申报设《课题指南》（附件1），申报人可以在该《课题指南》范围内，结合自身研究优势和学术积累，针对目前经济社会发展的趋势和市委市政府关心的热点难点问题申报； 三、本次年度课题立项分重点课题、一般课题、青年课题和共建课题，前三者资助金额分别不超过30万、18万和5万元； 四、深圳市哲学社会科学规划年度课题原则上要求1年内完成； 五、以课题组负责人身份申报规划课题，同一年度仅可申报一项，且不得作为其他课题组成员参与申报；以课题组成员身份申报规划课题，同年度最多可参与申请两项课题；有深圳市哲学社会科学“十三五”规划课题在研课题者或有深圳市哲学社会科学“十二五”规划课题结题不良纪录者，不得申报2018 年度哲学社会科学规划课题； 六、不具备副高及副高以上职称或者没有获得博士学位的项目申报者，须由两名具有副高级及以上职称的同行专家推荐； 七、青年课题申报者及课题组参与人员均应在1978 年12月31后出生； 八、申请者必须是课题实施全过程的真正组织者和指导者，承担实质性研究工作，挂名或不承担实质性研究工作的人员不得作为课题组负责人申请课题研究； 九、请申报人认真填写《深圳市哲学社会科学规划课题申请书》（附件2），将书面材料一式3份（含原件1份，A4纸正反打印，左侧装订）和电子版于5月7日前报送至所在学院，各学院科研秘书对申报书认真审查无误后，于5月8日前提交到校社科部，逾期不予受理。 联系方式：石秀选，26532968 办公楼531，sxx@szu.edu.cn 附件一: 《深圳市哲学社会科学“十三五”规划2018年度课题指南》 附件二: 《深圳市哲学社会科学规划课题申请书》 社会科学部 2018年4月13日
+
+#= 1
+#@ 236
+#! 2018年上半年光学工程专业博士学位论文答辩公告（第九组）
+#% 2018年上半年光学工程专业博士学位论文答辩公告（第九组） 日 期：2018年5月10日（星期四） 时 间：9:30-12:00 地 点：南区光电工程学院1118会议室 答辩主席：邵理阳、教授、南方科技大学 答辩委员：郑炜、研究员、中国科学院深圳先进技术研究院 邵永红、教授、深圳大学 宋军、教授、深圳大学 刘丽炜、教授、深圳大学 答辩秘书：彭晓、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2156190101 刘鸿吉 王科教授 1700 nm波段超快光源建造及其在荧光标记血管及细胞中的多光子成像研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 237
+#! 2018年上半年光学工程专业博士学位论文答辩公告（第十组）
+#% 2018年上半年光学工程专业博士学位论文答辩公告（第十组） 日 期：2018年5月10日（星期四） 时 间：9:30-12:00 地 点：南区光电工程学院1118会议室 答辩主席：邵理阳、教授、南方科技大学 答辩委员：郑炜、研究员、中国科学院深圳先进技术研究院 邵永红、教授、深圳大学 王科、教授、深圳大学 刘丽炜、教授、深圳大学 答辩秘书：彭晓、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2136190109 庾名槐 宋军教授 金属-钙钛矿量子点复合型纳米结构光学性质研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 238
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十九组）
+#% 2018年上半年光学工程硕士学位论文答辩公告（第十九组） 日 期：2018年5月11日（星期五） 时 间：13:30-15:30 地 点：光电所346会议室 答辩主席：吕晓旭、教授、华南师范大学 答辩委员：钟丽云、教授、华南师范大学 邵永红、教授、深圳大学 胡超、高级工程师、中兴通讯 刘则毅、教授、深圳大学 答辩秘书：何文奇、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190202 张雅琴 彭翔 基于单幅光栅投影的远心三维形貌测量研究 2 2151190207 刘超俊 彭翔 基于数字散斑的手持式三维结构光测量系统 3 2151190220 刘畅 刘晓利 基于多节点激光散斑投影的脚型三维测量系统 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 239
+#! 2018年上半年光学工程硕士学位论文答辩公告（第二十组）
+#% 2018年上半年光学工程硕士学位论文答辩公告（第二十组） 日 期：2018年5月11日（星期五） 时 间：15:30-16:00 地 点：光电所346会议室 答辩主席：吕晓旭、教授、华南师范大学 答辩委员：钟丽云、教授、华南师范大学 邵永红、教授、深圳大学 刘则毅、教授、深圳大学 连加荣、副研究员、深圳大学 答辩秘书：何文奇、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190114 王启垒 彭翔 针对三维模型的数字水印技术研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 240
+#! 2018年上半年光学工程硕士学位论文答辩公告（第二十一组）
+#% 2018年上半年光学工程硕士学位论文答辩公告（第二十一组） 日 期：2018年5月9日（星期三） 时 间：9:00-12:00 地 点：科技楼1409会议室 答辩主席：马星、教授、哈尔滨工业大学深圳研究院 答辩委员：李贵新、副教授、南方科技大学 闵长俊、教授、深圳大学 方晖、教授、深圳大学 杜路平、教授、深圳大学 答辩秘书：雷霆、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190128 张珊 袁小聪 基于奇点光束复用的自由空间光通信系统的研究 2 2150190117 杨帆 袁小聪 基于石墨烯光学表面波的光声显微成像研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 241
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十八组）
+#% 2018年上半年光学工程硕士学位论文答辩公告（第十八组） 日 期：2018年5月11日（星期五） 时 间：9:00-12:00 地 点：光电所346会议室 答辩主席：吕晓旭、教授、华南师范大学 答辩委员：钟丽云、教授、华南师范大学 邵永红、教授、深圳大学 胡超、高级工程师、中兴通讯 彭翔、教授、深圳大学 答辩秘书：何文奇、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190201 吴建梅 田劲东 基于单幅光栅投影的远心三维形貌测量研究 2 2151190212 胡荣镇 田劲东 基于视觉引导的SCARA工业机械手应用研究 3 2151190222 杨其昌 田劲东 双目立体视觉手眼标定技术研究 4 2151190223 李成 刘晓利 基于视觉辅助定位的傅里叶叠层成像技术研究 5 2151190224 杨洋 刘晓利 条纹投影轮廓术的高效立体匹配方法研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 242
+#! 深圳大学MBA知行论坛第7期，工商管理启真论坛第34期
+#% 讲座题目：POLITICAL RISK AND FOREIGN SUBSIDIARY PERFORMANCE IN CHINA: DOES POLITICIAN TURNOVER MATTER? 地点：深圳大学管理学院1400会议室 主讲嘉宾：杨海滨 教授 香港城市大学 嘉宾简介：杨海滨教授现任香港城市大学市场营销系与管理系联席教授，是美国德州大学达拉斯分校国际商务管理博士，武汉大学珞珈学者，2012年亚太管理学会年会主席，教育部长江学者讲座教授。杨教授是战略管理领域优秀的学者，主要研究企业战略网络、创新及创业，在国际顶级学术期刊上发表多篇学术论文，包括Academy of Management Journal (AMJ), Strategic Management Journal (SMJ), Management Science, Journal of Management等，也是多个著名管理学杂志的审稿人。 讲座摘要：While research has acknowledged the importance of political risks in affecting multinational companies’ behavior and performance outcomes, the roles of political agents in this process have largely been ignored. This study explores one important dimension of political risks caused by politician turnover at the sub-national level and examines its influence on the performance of foreign subsidiaries. We contend that policy uncertainty arising from politician turnover adversely affects the performance of foreign subsidiaries. We further develop a multi-level framework identifying contingent factors at event (i.e., internal promotion), firm (i.e., international joint venture), and environment (i.e., market intermediary development) levels that moderate the relationship between politician turnover and MNC performance. Analyses of 78,058 foreign subsidiaries located in 310 Chinese cities from 1998 to 2007 largely support our thesis that politician turnover dampens the performance of foreign subsidiaries. This this negative performance impact is then alleviated for internal promotions, international joint ventures, and firms located in regions with a high degree of market intermediary development. Our study opens a new avenue examining the role of host country political agents in affecting MNC performance.
+
+#= 1
+#@ 243
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十七组）
+#% 2018年上半年光学工程硕士学位论文答辩公告（第十七组）日 期：2018年5月9日（星期三） 时 间：09:00-12:00地 点：科技楼1409会议室答辩主席：马星、教授、哈尔滨工业大学深圳研究院答辩委员：李阿蒙、正高级工程师、深圳市计量质量检查研究院李贵新、副教授、南方科技大学 闵长俊、教授、深圳大学 方晖、教授、深圳大学答辩秘书：雷霆、讲师、深圳大学序号学号姓名指导教师论文题目12151190221杨传武袁小聪基于DMD的高速光开关技术研究欢迎有兴趣的师生参加！ 2018年上半年光学工程硕士学位论文答辩公告（第十七组） 日 期：2018年5月9日（星期三） 时 间：09:00-12:00 地 点：科技楼1409会议室 答辩主席：马星、教授、哈尔滨工业大学深圳研究院 答辩委员：李阿蒙、正高级工程师、深圳市计量质量检查研究院 李贵新、副教授、南方科技大学 闵长俊、教授、深圳大学 方晖、教授、深圳大学 答辩秘书：雷霆、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190221 杨传武 袁小聪 基于DMD的高速光开关技术研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 244
+#! 机电与控制工程学院博士后出站报告会
+#% 题目：纳晶石墨烯薄膜沉积过程的等离子体在线诊断 报告人：陈文聪 时间：2018年05月14日 上午09:30-11:00 地点：深圳大学后海校区南区机电与控制工程学院S601会议室 合作导师：刁东风教授 答辩专家： 组长：刁东风教授 组员：伍晓宇教授、潘剑飞教授、曲行达教授、娄燕教授
+
+#= 0
+#@ 245
+#! 学术讲座——海洋生态遥感技术及应用
+#% 讲座时间： 2018年5月8日（周二）下午14:30-16:30 讲座地点： 深圳大学西丽校区教学楼A6-103 主 讲 人： 王久娟博士 王久娟，中国科学院深圳先进技术研究院副研究员，中国科学院南海海洋研究所海洋环境科学博士，清华大学深圳研究生院博士后。深圳海洋环境信息大数据分析与应用工程实验室副主任，深圳市高层次后备级人才。主要研究领域：基于遥感和现场数据研究的海洋环境大数据分析，在遥感数据的提取、反演、矫正和统计方法的运用，以及海洋物理参数的计算等方面有着扎实的基础。曾在2009和2011分别获美国海洋研究科学委员会（SCOR）全额资助和空间研究委员会（COSPAR）国际组织全额资助出国学习。已在国内外学术期刊发表论文10余篇。目前，主持完成国家自然科学基金目1项目，主持在研深圳市科创委基础研究项目1项，参与国家级项目7项，以及多个深圳市海洋科学相关研究课题并取得了一系列成果。
+
+#= 0
+#@ 246
+#! 学术讲座——红树林湿地生态及生物多样性保护
+#% 讲座时间： 2018年5月8日（周二）晚上19:00-21:00 讲座地点： 深圳大学西丽校区教学楼A6-204 主 讲 人：杨琼 博士 广东内伶仃福田国家级自然保护区管理局 杨琼 博士，教授级高级工程师，2008年获中山大学环境生物学博士学位，现就职于广东内伶仃福田国家级自然保护区管理局。长期从事红树林保育、红树林湿地抗污除污能力及净化污水机理方面的研究，参与的“红树林湿地生态安全机制及应用研究”曾获深圳市自然科学奖。
+
+#= 1
+#@ 247
+#! 物理与能源学院2018年学术报告（七）--Materials Informatics: the 4th Paradigm
+#% 报告题目：Materials Informatics: the 4th Paradigm 报告嘉宾：郭鸿，加拿大麦吉尔大学教授，深圳大学访问教授 时间：2018年5月8日下午14:30-15:30 地点：深圳大学南校区物理光电楼1206会议室 报告摘要： Materials informatics (MI) may be considered as the 4th paradigm of scientific inquiry, in addition to experimental, theoretical and computational approaches. MI is made possible by the universal access to abundant scientific data, assisted by advances in software and machine learning methods to analyze the data at large scale. For materials problems with specific designing goals, physics-based indicators (or assumptions) are necessary to help narrowing down the informatics search. In this talk I shall discuss MI and apply it to materials screening for solid state electrolyte, 2D ferromagnetism and OLED materials. 报告人简介： 郭鸿教授1976年进入四川师范大学物理系学习。1981年作为第一批通过李政道教授组织的CUSPEA考试赴美留学。1987年获得美国匹兹堡大学(University of Pittsburgh)物理系理论凝聚态物理学博士学位。在此期间还获得实验物原子理学硕士和计算机科学系的硕士学位。1989年1月到麦吉尔大学工作，现为麦吉尔大学物理系James McGill 讲座教授。主要研究领域为纳米电子学电子输运理论、电子器件物理、材料物理、统计物理和计算物理。 郭鸿教授2004年入选美国物理学会会士，2007年入选加拿大皇家学会科学院院士，是国家千人计划B类获选者、中科院北京物理研究所国际量子结构中心(ICQS)成员、中国科学技术大学量子材料中心(ICQD)成员、深圳大学访问教授。
+
+#= 0
+#@ 248
+#! 学术讲座：暨南大学会计学黎文靖教授—企业创新中的非正式制度激励——基于空气污染视角的研究
+#% 讲座题目：企业创新中的非正式制度激励——基于空气污染视角的研究 讲座时间：2018年5月9日(周三)15:00 讲座地点：文科楼1500会议室 主讲嘉宾：黎文靖教授 暨南大学 主讲嘉宾简介： 黎文靖，男，暨南大学会计学教授，博士生导师。现任中国会计学会财务成本分会理事，中国会计学会对外交流专业委员会委员，广东省会计学会理事和国家自然科学基金通讯评议专家等职，同时入选财政部会计领军（后备）人才、广东省“千百十工程”人才计划等。黎教授主持过多项国家自然科学基金、广东省科技厅、财政部等重要项目。目前黎教授有多篇论文发表在经济研究、金融研究、会计研究、Journal of Business Ethics等国内外重要期刊上。同时，黎教授为Journal of Business Ethics (SSCI), Asian Pacific Journal of Management (SSCI), Business Strategy and the Environment (SSCI),《经济研究》、《管理世界》、《世界经济》、《经济学（季刊）》、《中国工业经济》、《金融研究》、《会计研究》、《南开管理评论》、《财经研究》、《南方经济》等多个国内外重要期刊的外审专家。 讲座主要内容： 本文基于2001年至2013年的城市空气污染指数（API）与沪深A股上市公司的专利申请数据，以地区空气污染为切入点，考察非正式制度环境（居住环境）对企业创新绩效和质量的影响及其作用机理。研究发现，（1）地区空气污染越严重，企业专利申请总量和发明专利申请数量显著减少，空气污染是企业创新的绊脚石；为控制内生性问题，本文利用“秦岭—淮河”供暖线政策的准自然实验（Chen et al., 2013），对空气污染与企业创新进行因果关系识别，结论保持一致。（2）所在地区空气污染严重，以及非高科技行业的企业，其创新更加受到空气污染的不利影响；空气污染与企业创新具有非线性关系，行业特征则是空气污染影响企业创新的调节效应。（3）空气污染导致地区人口流出加剧，人口流入则可以提高地区企业的创新绩效和质量；人才流失是空气污染影响企业创新的作用机理。 欢迎广大师生参加！ 经济学院 2018年5月7日
+
+#= 1
+#@ 249
+#! 领取项目经费卡通知（2018.05.07）
+#% 请以下老师到科技部（办公楼515）领取项目经费卡： 叶继伦 吴奕光 陆顺斌 刘森林 杨洋 苏陈良 余快 张星 王芳 刘艺涛 石红雁 胡瑞珍 王芸 王璐 陈婷婷 张博 刘杰 劳长石 李学金 江一舟 邹亮 陈彦涛 钱彬 管民生 潘晓芳 张小刚 李倩 向昱任 杨蓉 彭业萍 夏吉喆 刘鹏 王平 裴继红 米宏伟 李冬至 孙灵娜 刘国卿 李翠华 黄惠 丁建华 高阳 廖常锐
+
+#= 1
+#@ 250
+#! 2018年上半年土木工程硕士学位论文答辩公告
+#% 日 期：2018年5月9日（星期三） 时 间：08:30-12:00 地 点：土木工程学院B401 答辩主席：李东风 教授，工作单位：哈尔滨工业大学 序号 学号 姓名 指导教师 论文题目 1 2150150401 彭文俊 王卫仑 基于温度应力试验机的混凝土早期收缩与开裂敏感性研究 2 2150150402 徐宗南 王卫仑 混凝土电阻率监测和基于电阻率的混凝土性能表征 3 2150150406 乔庆鹞 王卫仑 微胶囊相变维护墙体节能效果的研究 4 2150150418 袁亚宾 王险峰 微胶囊自修复混凝土系统中的氯离子传输特性研究
+
+#= 1
+#@ 251
+#! 2018年上半年建筑与土木工程硕士学位论文答辩公告（第一组）
+#% 日 期：2018年5月9日（星期三） 时 间：13:30-15:30 地 点：土木工程学院B401 答辩主席：李东风 教授，工作单位：哈尔滨工业大学 序号 学号 姓名 指导教师 论文题目 1 2151150220 刘志鹏 刘伟 碳化对海砂混凝土中氯离子固化及钢筋锈蚀行为的影响 2 2151150228 钟燊 刘军 混凝土的自然碘离子扩散系数研究 3 2151150229 周浩 刘军 降雨对混凝土中氯离子分布的影响研究 欢迎有兴趣的师生参加！
+
+#= 0
+#@ 252
+#! 师范学院（部）学前教育系学术讲座《中国学前教育发展趋势》即将举办
+#% 讲座主题：中国学前教育发展趋势 主讲嘉宾：姚伟 时 间： 2018年5月10日周四下午14:30——17:30 地 点： 深圳大学师范学院A103 主讲嘉宾简介： 姚伟: 博士，东北师范大学教育学部教授，博士研究生导师。美国威斯康星——米尔沃基大学访问学者。现兼任教育部高等学校幼儿园教师培养教学指导委员会委员、中国学前教育研究会常务理事、中国学前教育研究会学术委员会学术委员、中国学前教育研究会课程与教学专业委员会副主任、吉林省学前教育研究会副理事长、《学前教育研究》编委。 主编有《现代美国学前教育学》（编译）、《幼儿游戏理论与指导》、《幼儿认识自然与社会》、《幼儿园教师教学指导书》、《幼儿园素质教育课程》等多部著作。主持教育部人文社会科学规划基金项目《幼儿园幼儿发展评价的问题与对策研究》、教育部十五重点课题:《幼儿科学教育活动中探究性性学习指导策略研究》及国家基础教育实验中心专项课题:《幼儿园教育教学改革实验的效果分析研究》等10多项国家级省市级课题，并在《学前教育研究》等国家级核心杂志发表论文近50篇。 热烈欢迎有兴趣的师生参加！
+
+#= 1
+#@ 253
+#! 2018年上半年行政管理硕士学位论文答辩公告（第五组）更新
+#% 日 期： 2018年5月11日 时 间：14:30-15:30 地 点：文科楼H3—203 答辩主席：吴克昌 序号 学号 姓名 指导教师 论文题目 1 2150060401 赵梦瑶 周林刚 基于居民需求的城市社区公共服务供给问题研究——以深圳市龙悦居为例 2 2150060403 陈永海 周林刚 助残社会组织与政府关系研究——基于237个样本的调查 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 254
+#! 2018年上半年行政管理硕士学位论文答辩公告（第二组）更新
+#% 日 期： 2018年5月11日 时 间：15:30-16:00 地 点：文科楼H3—202 答辩主席：黄岩 序号 学号 姓名 指导教师 论文题目 1 2150060411 黄纯 罗文恩 组织生态视角下社会组织孵化效果研究-以深圳市S区为例 欢迎有兴趣的师生参加！ 管理学院 2018年5月7日
+
+#= 1
+#@ 255
+#! 2018年上半年行政管理硕士学位论文答辩公告（第三组）更新
+#% 日 期：2018年5月11日 时 间：16:00-17:00 地 点：文科楼H3—202 答辩主席：黄岩 序号 学号 姓名 指导教师 论文题目 1 2150060404 王斐俊 赵宇峰 政府主导下的多村一社区治理困境及对策研究——以N市R社区为例 2 2150060407 刘晓艺 赵宇峰 城市流动摊贩疏导式治理的困境及对策分析——以深圳市L区为例 欢迎有兴趣的师生参加！ 管理学院 2018年5月7日
+
+#= 1
+#@ 256
+#! 2018年上半年行政管理硕士学位论文答辩公告（第四组）更新
+#% 日 期：2018年5月11日 时 间：17:00-18:00 地 点：文科楼H3—202 答辩主席：黄岩 序号 学号 姓名 指导教师 论文题目 1 2150060402 廖伟聪 马卫红 在变革中立序—企业组织变革的政策逻辑 2 2150060408 刘聪玲 马卫红 深圳市中小企业政策变迁中的政府职能研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 257
+#! 2018年上半年行政管理硕士学位论文答辩公告（第一组）更新
+#% 日 期：2018年5月11日 时 间：14:30-15:30 地 点：文科楼H3—202 答辩主席：黄岩 序号 学号 姓名 指导教师 论文题目 1 2150060405 黄英 曾锡环 我国港台地区社会企业成长中的政府角色比较研究 2 2150060412 舒莎 曾锡环 人才优先发展政策实施问题研究——以深圳市为例 欢迎有兴趣的师生参加！ 管理学院 2018年5月7日
+
+#= 0
+#@ 258
+#! 高等研究院系列学术讲座八十七
+#% Process Systems Engineering: Applications on Sustainable Bio-productionDr. Dongda ZhangUniversity of Cambridge About the Speaker张洞达，2013年进入剑桥大学攻读博士学位，两年内完成博士课题。经剑桥大学批准，提前授予博士学位。2016年受英国皇家工程院院士，帝国理工大学化工学院院长邀请，就职于Centre for Process Systems Engineering。2017年受英国皇家工程院院士Professor Robin Smith邀请，被聘为曼彻斯特大学化工学院讲师，终身制博士生导师。2018年被帝国理工大学化工学院聘为Honorary Research Fellow。 Talk InformationProcess Systems Engineering (PSE) focuses on the development of computer-based mathematical methods for the design, operation, control, and optimisation of chemical, physical and biological processes. Currently, in the domain of chemical engineering research, developing strategic modelling technologies through the adoption of both physical-driven and data-driven approaches has been given significant attention due to their importance in sustainable bio-production. Sustainable bio-production aims to design regenerative and environmentally friendly processes in which feedstocks are directly derived from bio-based materials,such asbiomass and microorganisms. This talk will cover the applications and challenges of utilising state-of-the-art PSE strategies for complex biosystem modelling, bioprocess optimisation, biosynthetic reaction network design, and life cycle assessment. Both traditional kinetic modelling and innovative machine learning methods will be presented. The presentation will also briefly summarise the research themes being conducted in the University of Cambridge, Imperial College London, and the University of Manchester. 时间：2018年5月8日下午2:00-3:30地点：图书馆南馆报告厅All are welcome！
+
+#= 0
+#@ 259
+#! 高等研究院系列学术讲座八十六
+#% Meromorphic solutions of difference equations and zero distribution of exponential polynomialsDr. Zhitao WenAssociate Professor, Taiyuan University of Technology About the SpeakerDr. Zhitao Wen, who is the associate professor in Taiyuan University of Technology, got PhD degree in University of Eastern Finland. He has more than 10 papers, which are published in TAMS, PAMS, JDE, etc. His research topic is difference equations in the complex plane and zero distribution of exponential polynomials. Talk InformationWe divide the presentation into two parts. First, we will show the background on the meromorphic solutions of difference equations. Further, we will present the classification of nonlinear difference equations, which is related to difference Riccati equations and difference Painleve equations. The open problem is the classification of second order nonlinear difference equations. Secondly, we will show the well-known result that the majority of the zeros of a given exponential polynomial are in domains surrounding finitely many critical ray. The shape of these domains is refined by showing that in many cases the domains can approach the critical rays asymptotically. Further, it is known the zeros of an exponential polynomial are always of bounded multiplicity. A new sufficient condition for the majority of zeros to be simple is found. Finally, we will discuss zeros of exponential sums related to Shapiro’s conjecture, which is still open now. 时间：2018年5月8日上午9:00-10:00地点：办公楼628会议室（原620-12会议室）All are welcome！
+
+#= 0
+#@ 260
+#! 学术讲座（二十一）：Down to Atomic-level Probing of Conjugated Phonon
+#% Down to Atomic-level Probing of Conjugated Phonon and Hot Carrier Transport 主讲人: Xinwei Wang, Professor 时间: 2018年5月11日上午10:00 地点: 深圳大学西丽校区B1-420 报告摘要: This talk will cover our new technology development and frontier research on phonon and electron transport probing based on Raman scattering, a technology traditionally widely used for structure analysis. The Raman-based thermal probing in two areas of our work will be covered. The first one is micro/submicron particle induced near-field effect. This phenomenon has been widely used in surface nanoscale structuring and imaging. For the first time, we have achieved nanoscale mapping of particle-induced thermal, stress, and optical fields under near-field excitation at a 20 nm resolution. This represents a very exciting advance for far-field thermal probing of near-field thermal phenomenon with an ultra-high resolution. The second area is our recent development of energy transport-state resolved Raman (ET-Raman). This is a breakthrough that pushes the physics process study down to nanosecond and picosecond scales, and is able to simultaneously characterize the conjugated transport of phonons in the in-plane and across-plane directions and transport of hot carriers in the in-plane direction. 2D materials as thin as 1.8 nm have been investigated, and we are able to measure the in-plane thermal conductivity, interface thermal resistance, and hot carrier diffusion coefficient/mobility at the same time. This provides the most advanced and accurate phonon and electron transport study of virgin 2D materials. 报告人简介： Dr. Xinwei Wang is a full professor at Iowa State University (http://web.me.iastate.edu/wang). He obtained his Ph.D. from the School of Mechanical Engineering, Purdue University in 2001, and had his M.S. (1996) and B.S. (1994) from the University of Science and Technology of China. Over the past 17 years, he has led his laboratory to develop novel technologies for micro/nanoscale thermal characterization, study ultrafast-laser material interaction, investigate light-structure coupling, and probe energy transport in various materials down the sub-nm scale. His current work focuses on energy transport in macromolecules, 2D atomic layer materials, atomic scale interface phonon energy transport, and in-situ probing and characterization of fuels in nuclear reactors. He has published 136 papers in highly-visible journals. He received the inaugural Viskanta Fellow Award of Purdue University in recognition of his pioneering and independent work in thermal sciences. He is the recipient of the 2014 mid-career award for research of Iowa State University. He is the Fellow of American Society of Mechanical Engineers (ASME) and Associate Fellow of American Institute of Aeronautics and Astronautics (AIAA). Currently, he is the associate editor of International Journal of Thermophysics, and on the editorial board of Journal of Thermal Stresses and Scientific Reports. 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 261
+#! 关于开展广东省重大科技专项绩效评估工作的通知
+#% 各有关项目组： 根据省科技厅通知，定于近期开展广东省重大科技专项绩效评估工作，现将有关要求通知如下： 一、评估范围 本次评估的对象为省科技厅组织实施的10个重大科技专项，包括计算与通信芯片、移动互联网关键技术与器件、云计算与大数据管理技术、新型印刷显示技术与材料、第三代半导体材料与器件（可见光通信技术及标准光组件）、智能机器人、新能源汽车电池及动力系统、精准医学与干细胞（干细胞与组织工程）、增材制造（3D打印）技术和无人智能技术等，共涉及项目564个。评价基准日为2018年3月31日。 二、评估内容 （一） 基础条件及发展能力。主要包括项目承担单位规模、经营状况、研发投入、研发团队建设、管理水平等。 （二） 项目实施进展及成效情况。包括项目是否按合同计划推进实施，项目已取得的主要成效等。 （三）项目关键技术就绪水平。包括项目关键技术当前就绪程度，较立项提升程度，以及与项目目标预期状态的差距等。 （四） 项目经费管理与使用情况。包括项目专项经费单独核算、专款专用情况，到位专项经费执行率，专项经费支出的合规性等。 三、评估流程 本次评估包括培训、自评价、现场考察、综合评估四个阶段。根据评估工作需要，省科技厅委托广东省技术经济研究发展中心等专业机构负责本次评估具体实施工作。 （一） 培训。 为保障评估工作顺利开展，明确评估工作的要求与重点，统一标准与口径，省科技厅将组织召开视频培训会议（具体时间、地点另行通知）。 （二） 自评价。 请项目承担单位按通知要求，认真进行自评，并按要求填报自评价材料。自评价材料包括： 1.项目信息表（附件1）（“基础信息表1”只填写项目基本情况，其它各表请填写完整） 2.项目自评价报告（附件2） 3.相关佐证材料（需按顺序编号） 自评价材料需提供电子版和纸质版，并于2018年5月8日前报送至学校科技部519。其中，电子版材料发至邮箱34526656@qq.com；纸质版材料（1份） 佐证材料准备要求：项目所有资料信息均需准备佐证材料备查。本次评估重点要求提供项目实施进展情况、项目评估时关键技术就绪水平和技术先进性等方面的佐证材料。 （三） 现场考察。 在对自评价材料进行形式审查的基础上，省科技厅将结合项目结题验收工作，会同评估机构进行现场考察，听取项目承担单位汇报，进行现场质询，查阅相关材料，考察项目研发和产业化场地等（具体现场考察要求另行通知）。 （四） 综合评估。 根据项目自评价材料、形式审查情况、现场考察发现，评估小组对项目进行综合评估，形成项目综合评估意见和省重大科技专项绩效评估报告。 省科技厅根据评估结论，对存在问题的项目进行跟踪督导、限期整改和信用管理等，进一步完善省重大科技专项组织实施机制。 四、有关要求 （一） 按时保质完成自评价工作。请严格按照通知及评估机构要求，认真准备自评价材料，并按时报送。项目承担单位应对自评价材料的真实性负责，存在弄虚作假的，或不按要求提供材料的，将直接列为考核不合格，并纳入信用管理。 （二） 配合做好现场考察工作。请积极配合评估机构开展现场考察工作，整理、归档好自评价材料以供评估小组核查，组织熟悉项目实施情况的人员（包括项目管理、财务、技术人员）参与现场考察，协助做好现场座谈、问询答辩及实地考评等工作。 （三） 指定联络人。请有关项目组安排指定评估联络人，负责落实评估各项要求，配合评估机构做好本次评估工作。 邮箱：34526656@qq.com 科学技术部
+
+#= 1
+#@ 262
+#! 深圳大学材料学院研究生硕士学位论文答辩公告（二）
+#% 答辩时间: 2018年05月09日 答辩地点: 深圳大学西丽校区材料学院B2-527 答辩委员会主席: 李明雨, 教授,哈尔滨工业大学深圳研究生院 答辩人姓名: 张熙 论文题目: 氧化铁基介孔异质结结构材料光催化研究 指导教师: 邓远名 答辩时间: 2018年05月09日 9：00-9:40 答辩人姓名: 秦嗣银 论文题目: 烷基化石墨烯改性相变微胶囊的制备及性能表征 指导教师: 陈大柱 答辩时间: 2018年05月09日 9：40-10:20 答辩人姓名: 裴行 论文题目: 聚合物基镉离子荧光检测材料的制备与性能表征 指导教师: 万学娟 答辩时间: 2018年05月09日 10:20-11:00 答辩人姓名: 韩志群 论文题目: 响应控释金纳米笼载体系统的构建及其在肿瘤诊疗中的应用 指导教师: 汤皎宁 答辩时间: 2018年05月09日 11：00-11:40 答辩人姓名: 吴李思 论文题目: 聚合物基纳米凝胶构筑灵敏的Hg2+荧光检测、按需清楚材料 指导教师: 万学娟 答辩时间: 2018年05月09日 11：40-12:20 答辩人姓名: 梁海聪 论文题目: 磷酸盐陶瓷涂层的制备及其在高温锅炉中的应用 指导教师: 谷坤明 答辩时间: 2018年05月09日 14：00-14:40 答辩人姓名: 王海典 论文题目: 环氧基和氨基官能团包覆有机硅微球的制备及其在聚碳酸酯中的应用 指导教师: 欧阳星 答辩时间: 2018年05月09日 14：40-15:20
+
+#= 1
+#@ 263
+#! 第十四届文博会深大文化创意园分会场
+#% 第十四届文博会深大文化创意园分会场 “2018国际植物染艺术联展系列活动” 深圳大学文博会荔园分会场一贯以来秉承地创新、创意、创业的精神，今年第十四届盛大文化创意园分会场的主题是“传承创新、文化荔园”。遵从习近平总书记在十九大报告中指出要“推动中华优秀传统文化创造性转化、创新性发展”，第十四届文博会盛大文化创意园分会场将发挥“学术、高端、原创”的艺术特色，将文化创意“产学研”与文化创新、传承创新相结合。 2017年深圳大学文博会期间召开了“两岸植物染艺术联展及系列讲座”，邀请了台湾的植物染大师陈景林老师、汤文君老师，国内的黄荣华老师、楚艳老师、王浩然老师、卲旻老师做了专题讲座，并邀请了七位台湾植物染艺术家和大陆30余位艺术家的作品联合展示，是国内高校第一次以植物染为主题的艺术展览，活动聚集了国内近百位植物染艺术家的参与，在植物染界有一定的影响力。因此，“第二届国际植物染艺术联展及系列讲座”以传承与创新为主题即将将再次召开。 以“创新与传承”为主题，在学习日本、台湾植物染的经验的同时，以本民族文化为根基，探讨如何将传统文化与现代时尚链接；通过扩大与日本、台湾植物染大师的学习交流，汲取先进的染色技艺，促进国内植物染技艺的提升，特别是探讨高校中植物染教育的完善。 主要内容 一、专题讲座： 专题讲座邀请了日本植物染艺术家吉岡幸雄老师、台湾蓝染艺术家马芬妹老师等的讲座。与会者包括大陆植物染艺术家同仁、院校植物染教师、植物染爱好者，深圳服装企业设计师、深圳大学师生等。 讲座内容： 1、“自然植物色染”，讲座人：吉岡幸雄老师 地点：深圳大学科技楼3号报告厅 时间：5月9日上午9:00-－11:30 2、“日本植物染技艺”，讲座人：吉岡幸雄老师 地点：深圳大学科技楼3号报告厅 时间：5月9日下午2:00-－5:00 3、“青出于蓝的脉络”，讲座人：马芬妹老师 地点：深圳大学科技楼3号报告厅 时间：5月10日上午9:00-－11:30 4、“台湾植物染技艺”，讲座人：汤文君老师 地点：深圳大学科技楼3号报告厅 时间：5月10日下午2:00-－5:00 二、“2018国际植物染艺术联展” 主题为“传承与创新”，邀请选拔了近60位艺术家作品参加展览。其中邀请了吉岡幸雄老师和马芬妹老师、汤文君老师等7位台湾老师及大陆50多位植物染艺术家和教师的120多幅作品。 地点：深圳大学科技楼一楼北厅 时间：5月9日--5月13日 三、“植物染”艺术市集 邀请8个国内植物染工坊携带蓝染产品参加艺术市集。 地点：深圳大学科技楼一楼 时间：5月9日--10日 敬请各位老师、同学们光临指导！ 深圳大学文博会分会场管理委员会 深圳大学草木蓝兮植物染团队 2018年5月7日
+
+#= 1
+#@ 264
+#! 深大营销学术前沿第40期成功举办
+#% 2018年4月20日下午，香港城市大学杨志林教授于文科楼1400会议室，以“供应商能力对制造商采用创新的影响：关系嵌入的调节作用”为题进行主题分享。讲座由管理学院贾芳老师主持，管理学院部分老师及学生出席本次活动。 杨教授首先从B2B组织营销中供应商能力说起，包含下游市场营销能力以及技术能力两个方面并详细介绍了供应商创新产品的优势。接着，杨教授详细介绍了供应商与制造商之间的关系嵌入，包含供应商与制造商相互间的依赖以及买家的信任因素的影响。杨教授详细介绍关系嵌入调节供应商能力对制造商采用创新的影响过程，以利乐公司占领包装行业的典型案例进行详细分析，引入研究模型的相关变量。总结中，杨教授提到该研究着重于快速消费品，供应商与制造商之间的关系不确定性发展至关系确定性的过程对研究关系嵌入十分重要，要加强对供应商与制造商关系变化的深入探索和研究。 在交流阶段，师生踊跃发言，就讲座内容展开了广泛的讨论。老师之间思想的激烈碰撞让在场师生获益匪浅。 （管理学院市场营销系供稿、供图） 管理学院 2018年4月20日
+
+#= 1
+#@ 265
+#! 学术报告九_自停止刻蚀在GaN功率器件中的实现和应用
+#% 题目：自停止刻蚀在GaN功率器件中的实现和应用 时间：2018年5月7日（星期一）下午5:00 地点：南校区光电工程学院1110 报告人：王茂俊 教授（北京大学） 摘要： 宽禁带半导体GaN具有高击穿电场、高电子迁移率等优点，可以发展下一代高效功率转换器件，在高频高压应用领域有着广阔的应用前景。GaN功率器件主要为基于AlGaN/GaN异质结的高电子迁移率场效应管HEMT。由于其极化特性，AlGaN/GaN HEMT为‘常开型’。而在实际应用中，出于安全、功耗、驱动设计等考虑，‘常关型’具有更大的优势。本报告将介绍自停止刻蚀技术的‘常关型’GaN功率器件的制造方案，及其在功率转换系统中的应用。 报告人简介： 主要从事基于GaN的第三代宽禁带半导体电子器件的研究，研究方向包括GaN基射频微波器件以及电力电子功率开关器件的器件物理和工艺。在国际物理及器件期刊，如IEEE Electron Device Letters, IEEE Transactions on Electron Devices, Applied Physics Letters，Journal of Applied Physics上发表学术论文40多篇，多次在氮化物材料和器件相关的国际会议，如ICNS，IWN，TWHM, ISPSD以及IEDM上作报告。主持或参与了国家自然科学基金青年、面上、重点项目，以及国家重大专项、重点研发计划等科研项目。
+
+#= 0
+#@ 266
+#! 讲座通知：中国教育改革：经验、取向及反思
+#% 主 题：中国教育改革：经验、取向及反思 主 讲：程天君教授 时 间：5月11日上午9:00-11:00 地 点：师范学院国际会议厅A厅 主 办：深圳大学师范学院教育学一级学科 讲者简介： 程天君，南京师范大学教育社会学研究中心主任、博士生导师，长江学者特聘教授，全国教育社会学专业委员会副理事长，江苏省学位委员会委员，主要从事教育社会学、教育基本理论的教学与研究，在《教育研究》《北京大学教育评论》《高等教育研究》等刊物发表论文多篇，著有《“接班人”的诞生——学校中的政治仪式考察》《中国教育社会学百年：学科、学术与学问》等著作。
+
+#= 1
+#@ 267
+#! 学术沙龙： DARPA SC2挑战赛与智能无线网络
+#% 报告题目： DARPA SC2挑战赛与智能无线网络主讲嘉宾：王滔滔 博士 助理教授 时间：2018年5月10日（周四） 下午4:00地点：深圳大学南区基础实验楼北座信息工程学院N605报告摘要：本次报告首先将分享我在美国国防部先进技术研究局（DARPA）举办的频谱协作挑战赛（SC2）的参赛经历。DARAP从2016底年开始举办为期三年的SC2。为了保证指数级增长的军事和民用无线设备仍然能够最大化的使用越来越拥挤的频谱，SC2致力于设计并开发基于人工智能和深度学习技术的频谱协作智能无线网络。SC2认为好的解决方案应该是能够和任何无线网络、不需要任何协议先验知识、在任何无线环境下都能够协作共享频谱的技术。在参与SC2的过程中，我们受其激发，提出采用深度强化学习算法（Deep Reinforcement Learning, DRL）来解决异构无线网络中的多址接入问题。具体的，在该异构网络中，我们考虑多个节点，采取不同的多址接入方式和基站进行通信。智能节点并不知道其他节点的多址接入方式，它采用DRL算法来学习其周遭的无线环境，机会式的接入基站，和其他节点共存、共享频谱。本次报告将介绍所采用的具体DRL算法；以及基于DRL的无线协议设计。实验结果揭示基于DRL协议的智能节点能够和其他节点良好共存；并且，在DRL中采用的深度神经网络大大的加快了智能节点学习过程的收敛速度。 嘉宾简介：王滔滔于 2015 年、 2011年和 2008 年分别获得香港中文大学信息工程系博士、北京邮电大学信号与信息处理专业硕士和电子科技大学电子信息工程专业学士学位。于2016年开始在深圳大学信息工程学院担任助理教，从事科研和教学工作。主要研究领域为无线网络与通信、智能信号与数据处理。在IEEE Trans.、ICC、ICASSP、中国科学等国内外重要学术期刊和会议上发表论文30余篇，申请并已获得授权的国家发明专利若干项，美国专利1项。2011年获得香港政府博士奖学金计划(Hong Kong PhD Fellowship Scheme)。2012年获得微软亚洲研究院The Star of Tomorrow奖。 2016年获得SCI期刊IEEE Wireless Commun. Letters优秀审稿人奖。最近，王滔滔的主要研究工作集中在智能无线网络的理论与开发方面。具体的，王滔滔目前正在参加美国国防部先进技术研究局（DARPA）举办的频谱协作挑战赛（SC2）。作为唯一的亚洲入围参赛队伍，王滔滔和他的队友们，将在SC2中利用机器学习算法来提升无线网络的频谱利用率。
+
+#= 0
+#@ 268
+#! 学术讲座：Online Charging Scheduling Algorithms of Electric Vehic
+#% 报告题目： Online Charging Scheduling Algorithms of Electric Vehicles in Smart Grid主讲嘉宾：唐晓莹 博士 瑞士洛桑联邦理工学院（EPFL）邀请人：毕宿志老师时间：2018年5月11日（周五） 下午3:00地点：深圳大学南区基础实验楼北座信息工程学院N723报告摘要：As an environment-friendly substitute for conventional fuel-powered vehicles, Electric Vehicles (EVs) and their components have been widely developed and deployed worldwide. The largescale integration of EVs into power grid brings both challenges and opportunities to the system performance. Evidently, uncontrolled EV charging could lead to inefficient power network operation or even security issues. This has spurred on enormous research interest in designing charging coordination mechanisms. A key design challenge here lies in the lack of complete knowledge of data in the future. Indeed, the knowledge of future data significantly impacts the design of efficient charging control algorithms. In this talk, I am going to introduce two online EV charging scheduling algorithms that deal with different degrees of uncertainty and randomness of future data. In particular, I will talk about how to explore some unique features of the charging behaviors of EVs to improve the general online algorithms for better performance and lower complexity. I will also show the performance of two online EV charging scheduling algorithms in both theoretic analysis and simulations. 嘉宾简介：Xiaoying Tang is currently a Scientist/Postdoc within the School of Computer and Communication Sciences and School of Engineering, École polytechnique fédérale de Lausanne (EPFL). She received her B.Eng. degree with honors from the Yingcai Honors College, University of Electronic Science and Technology of China in 2011, and Ph.D. degree from the Information Engineering Department, The Chinese University of Hong Kong in 2016. She worked as a Postdoc/Research Fellow at the Information Engineering Department, The Chinese University of Hong Kong during 2016-2017. Her current research interests include online algorithm and scheduling algorithm design and stochastic optimization in Internet of Things (IoT), including smart grid and intelligent transportation network, and machine learning, deep learning and reinforcement learning in data science. She received the Best Paper Award of IEEE SmartGridComm 2013, a Student Travel Grant from the IEEE Communication Society in 2013, and the Talent Development Scholarship from Hong Kong Special Administrative Region Government Scholarship Fund in 2015.
+
+#= 1
+#@ 269
+#! 关于申报2018年度深圳市专利奖的通知
+#% 各单位: 2018年度深圳市专利奖已开始接受申报，现就有关申报工作通知如下： 一、申报规定： 申报人须认真阅读《2018年度深圳市知识产权专项资金申报指南》（第六项：深圳市专利奖申报）和《深圳市科学技术奖（专利奖）奖励办法实施细则》等有关规定。 二、申报要求: （1）申请项目为已获得国家知识产权局授权的专利，且该专利权有效、稳定； （2）专利技术水平高，原创性强，对促进本领域的科技创新有突出的作用； （3）该专利已经实施，取得显著的经济效益或社会效益； （4）专利文本质量较高； （5）针对该专利的保护措施较完善； （6）该专利及其产品符合国家、省、市的产业政策。 三、有下列情形之一的，不得申请专利奖： （1）已经获得国家、广东省、深圳市专利奖的； （2）作为主要知识产权证明，获得深圳市科学技术奖的； （3）专利权属存在争议的； （4）专利处于无效宣告程序中的； （5）机关单位、国家机关工作人员； （6）国防专利和未解密的保密专利。 四、申报步骤： 1.网上填报 （1）登录广东省网上办事大厅深圳市市场和质量监督管理委员会窗口（ https://app03.szmqs.gov.cn/psout/）。登陆系统（报奖需要深大账号，请咨询李老师。也可自行注册进入系统了解申报内容）点击“我要申报”，选择知识产权“深圳市科学技术奖（专利奖）申报”，在线填报相关资料； （2）将本申报指南第五条要求的资料以PDF文件格式对应系统中的业务材料分别上传。 2.提交书面材料 网上审查通过后将本申报指南第五条要求的材料按A4纸规格，装订成册，一式四份。 五、应提交的书面材料 专利权人在申请专利奖时，应当提交下列申请材料： 1.《深圳市专利奖申报书》（原件）； 2.专利权人是组织的，需提交营业执照或者法人登记证等主体资格证明文件（复印件）；专利权人是自然人的，需提交第二代身份证（复印件）并签名，同时提交联合申报单位的营业执照或者法人登记证等主体资格证明文件（复印件）； 3.专利证书（复印件）； 4.专利公告文件（复印件），包括授权公告时的扉页、权利要求书、说明书及其附图，或外观设计图等； 5.发明专利项目需提交国家知识产权局近3个月内出具的专利登记簿副本（原件），实用新型和外观设计专利需提供新颖性检索报告或者专利权评价报告（复印件）； 6.专利权人为两个或者两个以上的，需提交所有专利权人书面同意文件（原件），并指定其中一个专利权人进行申请；专利权人与实施单位联合申请的，需提交实施单位对该专利享有合法实施权的材料，如专利实施许可合同及国家知识产权局的许可备案证明（复印件）等； 7.经济效益证明或者社会效益说明。经济效益证明为会计师事务所出具的申请专利奖项目的专项审计报告（原件）。申报材料所指的经济指标截止的时间为2017年12月31日，应包括该专利项目的产品生产量、项目投资额、销售额、利税、出口额等经济指标；社会效益说明应提供相应证明材料。 8.专利项目的产品属于药品、食品、农药等涉及生命安全的特殊产品的，应当提交有关部门依法准予生产的市场准入证明材料（复印件）； 六、受理时间： 1、网络填报截止时间为2018年5月15日。请各申请人于截止时间前完成网上材料的提交工作。 2、书面材料截止时间为2018年5月18日。 3、请各申请人准时提交，逾期不予受理。 七、联系方式： 申报网站技术支持电话：8307-0575 科技部联系人： 报奖咨询：李啸宇，2653-2350，lixy@szu.edu.cn 专利咨询：职利，2653-6623 附件1：2018年度深圳市知识产权专项资金申报指南 附件2：《深圳市科学技术奖（专利奖）奖励办法实施细则》 科学技术部 2018年4月19日
+
+#= 1
+#@ 270
+#! 关于申报2018年度深圳市科学技术奖励(青年科技奖)的通知
+#% 各单位: 2018年度深圳市科学技术奖（青年科技奖）已开始接受申报。青年科技奖授予对象为不超过35周岁(为1982年12月31日之后出生)的青年科技工作者。2018年度青年科技奖奖金为50万元,奖励名额不超过8个。现就有关申报工作通知如下： 一、申报人须认真阅读《深圳市科学技术奖励办法》（深府[2016]87号）和《深圳市青年科技奖实施细则》（深科协[2018]45号）等有关规定。 二、附件中申报人所获得的知识产权必须是在受理时已授权的、论文必须是已经公开发表的。论文的“他引”材料需权威部门出具。与申报人无关的，或还未获得授权的或未公开发表的论文均视为无效材料。 三、推荐单位写：南山区科学技术协会，联系人：王永祥，电话：0755-26542028 四、申报步骤： 1、已经有青年科技奖申报系统账号的直接登录系统申报，没有账号的将姓名、所在学院、手机、邮箱地址以电子邮件方式发送到lixy@szu.edu.cn，获取系统账号； 2、登录“深圳市科学技术奖青年科技奖申报系统”，网址： http://system.szsta.org。 ﻿表格填报： 申报人须先通过“修改个人信息”功能完善申报人信息。然后选择“ 填写申报书”进行项目填报； 填报完成检查无误后，提交到单位用户。 3、单位审核提交区、市科协审核。 4、待管理单位审核通过后， 申报单位方可打印正式纸质申报资料（ 《申报书》和附件装订成册） 5、将纸质申报材料和拟定的单位推荐意见（不少于50字）和区科协推荐意见（不少于50字）提交到科技部。同时将电子版发送至科技部受理人邮箱lixy@szu.edu.cn。 五、材料装订要求： 1、为了便于阅读，请申报人在申报书封面第二页自行增加内容详细目录。 2、申报材料包括《申报书》和附件合并装订，所有书面材料用A4纸双面打印/复印，不需另加封面，采用胶装。附件需打印清单目录按申报说明中要求提交的申报材料顺序装订于《申报书》后 面，并与《申报书》编上目录和连续页码（可手编页码），一式四份。 六、受理时间： 1、网络填报截止时间为2018年5月8日。请各申请人于截止时间前（5月8日前）完成网上材料的提交工作。 2、书面材料截止时间为2018年5月9日。 3、请各申请人准时提交，逾期不予受理。 七、联系方式： 网络系统填报技术支持电话：4006751236；0755-26712272 科技部联系人：李啸宇， 2653-2350，lixy@szu.edu.cn 科学技术部 2018年4月23日
+
+#= 1
+#@ 271
+#! 关于申请2018年度国家自然科学基金委员会与埃及科学研究技术院合作研究项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与埃及科学研究技术院（ASRT）签署的合作协议及后续达成的共识，双方将于2018年起联合资助合作研究项目，进一步推动两国科技合作与交流。 一、2018年项目征集说明 （一）资助领域及说明 经双方协商，本次征集的合作领域是生命科学（Life Sciences）及工程与材料科学（Engineering and Material Sciences），申请代码1须选择生命科学部C或工程与材料科学部E开头的申请代码，未按要求填写申请代码的申请书将不予受理。 （二）资助年限 项目实施周期为3年，2018年批准立项的项目执行期为2019年1月1日-2021年12月31日。 （三）资助经费及说明 2018年该合作领域的资助数量为6项左右，NSFC对每个项目提供200万元人民币直接费用的经费资助（请注意：直接费用大于200万元的申请将不予受理），其中包括研究经费和合作交流经费等。ASRT向埃及科学家提供相应的资助经费。 二、申请条件 根据《国家自然科学基金国际（地区）合作研究项目管理办法》，申请本项目须符合以下条件： （一）中方申请人应具有高级专业技术职务（职称），应是正在承担或承担过3年期以上国家自然科学基金项目的负责人。 （二）埃方合作者应符合ASRT对本国申请人的资格要求，并按照要求向ASRT提交申请。 （三）中埃双方科学家之间应当具有一定的合作基础，项目申请应充分体现强强合作，优势互补。 （四）关于申请资格的详细说明请见《2018年度国家自然科学基金项目指南》。 三、限项规定 国家自然科学基金国际（地区）合作研究项目包括组织间国际（地区）合作研究项目（以下简称组织间合作研究项目）和重点国际（地区）合作研究项目。“NSFC- ASRT（中埃）合作研究项目”属于组织间合作研究项目，申请人申请时须遵循以下限项规定： （一）申请人同年只能申请1项国际（地区）合作研究项目。 （二）上年度获得国际（地区）合作研究项目资助的项目负责人，本年度不得作为申请人申请国际（地区）合作研究项目。 （三）“NSFC- ASRT（中埃）合作研究项目”不计入“高级专业技术职务（职称）人员申请和承担项目总数限3项”的限制规定。 （四）《2018年度国家自然科学基金项目指南》中关于申请数量的其他限制。 四、申报要求 为使申报工作顺利进行，请注意以下几个方面： （一）双方科学家需要分别根据本国基金组织的要求，填写和提交相应的申请书；对于单方提交的申请，将不予受理。中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），在线填报《国家自然科学基金国际（地区）合作研究项目申请书》（以下简称“中文申请书”）。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“组织间合作研究（组织间合作协议项目）”右侧的“填写申请”按钮，进入选择“合作协议”界面，在下拉菜单中选择“NSFC- ASRT（中埃）”，然后按系统要求输入要依托的基金项目批准号，通过资格认证后即进入具体中文申请书填写界面。 （二）中方申请人须与埃方合作者联合提出申请，并共同填写英文申请书（见附件1），填写完毕后上传添加至中文申请书的“附件”栏中一同提交。 （三）中方申请人将以上全部材料在线填写和上传确认无误后，点击提交。经依托单位审核确认后打印系统生成的申请书及附件PDF文件2份，交至办公楼515室。 （四）截止时间：2018年5月25日。 （五）埃及合作伙伴须在截止日期前同时向ASRT提交申请。 五、联系方式： 基金委项目联系人：孙姝娜 电 话：010-62325454 传 真：010-62327004 电 邮：sunsn@nsfc.gov.cn 深大科技部联系人：李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月23日
+
+#= 1
+#@ 272
+#! 关于申请2018年度国家自然科学基金委员会与英国文化教育协会双边研讨会项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会(NSFC)与英国文化教育协会(British Council)的科技合作谅解备忘录，双方将在2018年共同资助中英两国青年研究人员之间的双边研讨会，以建立未来的合作联系，提升青年研究人员的职业发展机会。 一、 项目说明 1. 项目说明： 双边研讨会应当由两位分别来自中国和英国的申请人担任发起人及组织者，并提交双边研讨会项目申请； 双边研讨会持续时间一般为3天以内，国家自然科学基金委员会(NSFC)与英国文化教育协会(British Council)最多资助4晚的住宿与接待费用； 项目申请人应组织中英双方各15-20名青年研究人员参会； 中方（英方）的参会人员应来自中国（英国）3所以上的高校或科研院所，且每所高校或科研院所的参会人员数量不能超过中方（英方）总参会人数的三分之二； 研讨会也可邀请中英两国高级研究人员担当研讨会导师，一方导师人数不超过2名。导师将通过主题报告和与参会的青年学者交流学术研究经验与学术成果的方式，与青年学者建立工作联系； 研讨会日程安排建议：大会主旨报告，学术报告，研究人员职业发展规划研讨，国际科研合作经验分享与探讨，科技文章写作与投稿讲座，其他交流与互动活动等。 2. 资助领域：包括但不限于健康/生命科学、环境技术、食品及水源安全、能源、城镇化。 3. 资助强度：中方的资助强度为原则上每项不超过15万元人民币（直接费用），本项目无间接费用。 4. 资助内容： 在中国举办的双边研讨会，中方资助中英参会人员在中国的接待费用，以及中方举办会议所需的会议费；英方资助英方参会人员的国际旅费。 在英国举办的双边研讨会，中方资助中方参会人员的国际旅费；英方资助中英参会人员在英国的接待费用，以及英方举办会议所需的会议费。 5. 项目执行期： 2019年1月至2019年12月。双边研讨会必须在项目执行期内召开。 二、 申请资格 1. 中方申请人须是2019年12月31日（含）以后结题的3年期（含）以上国家自然科学基金在研项目的主持人或主要参与人。 2. 中英双方申请人需分别向国家自然科学基金委员会（NSFC）和英国文化教育协会(British Council) 递交项目申请，单方申请将不予受理。英方申请指南请见： https://www.britishcouncil.org/education/science/current-opportunities/workshop-grants-newton-april-2018 注：BC将对英方申请人提交的项目申请进行ODA资格审查，请中方申请人关注英方指南中ODA的说明（Relevance to economic development and social welfare），并提醒英方合作者按照要求向英方提交申请。 3. 中方项目申请人需具备高级专业技术职务（职称）。 4. 参加双边研讨会的青年研究人员应满足如下条件： 拥有博士学位，且博士毕业后从事研究工作的年限不超过10年； 拥有开展基础研究项目或博士后研究的经历。 三、 限项规定 1. 本项目属于国际（地区）合作交流项目，不受“高级专业技术职务（职称）人员申请和正在承担的项目总数限为3项”规定的限制。 2. 不受“申请人同年只能申请1项同类型项目”规定的限制。 3. 关于限项规定的详细说明，请见《2018年度国家自然科学基金项目指南》。 四、 申报要求 1. 在线填报申请书路径：中方申请人需根据开会地点，选择下列相应的申请路径提交申请。 在中国举办的双边研讨会，中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/ egrantweb/），在线填报《国家自然科学基金国际（地区）合作交流项目申请书》。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“在华召开国际（地区）学术会议”右侧的“填写申请”按钮，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-BC（中英）”，然后按系统要求输入依托在研基金项目的批准号，通过资格认证后即进入具体申请书填写界面，用中文填写申请书。 在英国举办的双边研讨会，中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/ egrantweb/），在线填报《国家自然科学基金国际（地区）合作交流项目申请书》。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“出国(境)参加双(多)边会议”右侧的“填写申请”按钮，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-BC（中英）”，然后按系统要求输入依托在研基金项目的批准号，通过资格认证后即进入具体申请书填写界面，用中文填写申请书。 2. 申请书填写说明 中英双方申请书中的项目名称（中英文）、双方项目申请人和依托单位（请用中英文在正文中注明英方申请人信息）、会议地点、会议规模等主要信息应严格一致； 在“会议日程安排”栏目，应详细列出双边交流研讨会的日程安排； 项目申报时，申请人不需要列出中英双方参会青年研究人员的详细信息，但应当明确中英双方参会青年研究人员的人数； 项目获批后，英方申请人需公开征集英方参会人员，中方申请人需将符合本指南要求的中方参会人员名单（包括姓名、单位和博士毕业日期）经申请人签字后连同计划书一起在系统内提交； 项目资金预算表只填写“9差旅/会议/国际合作与交流费”栏目，并在“预算说明书”中制定以下详细预算：出访人员的国际旅费；或者来访人员的住宿费、伙食费，国内参会人员的国内旅费、接待费，以及举办会议所需的会议费等。 3. 在线提交附件材料 除了在线填写提交中文申请书，中方申请人还须在ISIS系统中提交附件材料，包括： 1) 英方申请人的个人简历； 2) 英文申请书。双方申请人需共同完成英国文化教育协会所要求填写的英文申请书，并作为附件在ISIS系统中提交。 4. 以上全部材料在线成功提交后，经依托单位审核确认后，打印系统生成的申请书（PDF文件）和附件2份，交至办公楼515室。 5. 截止时间：2018年6月4日 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请将不予受理，如有疑问，请致电欧洲处询问。 五、 项目联系人 中方联系人：邱春红 电 话：010-62327005 Email： qiuch@nsfc.gov.cn 英方联系方式：UK-ResearcherLinks@britishcouncil.org 中方申请人在线填写申请书过程中如遇到技术问题，可联系我委ISIS系统技术支持。 电 话：010-62317474 深大科技部 联系人：李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月23日
+
+#= 1
+#@ 273
+#! 关于申请2018年度国家自然科学基金委员会与瑞典研究理事会合作研究项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与瑞典研究理事会（VR）双边合作协议， 2018年双方将共同资助中瑞合作研究项目，以促进两国科学家之间的合作与交流。 一、项目说明 1. 资助领域 •Renewable energy(申请代码1须选择E06或者E07): High quality basic research for efficient and environmentally adapted renewable production, efficient utilization of electricity or fuel. •Biotechnology(申请代码1须选择C06)： High quality biotechnological research that aims to develop new technologies or products for research, industry, agriculture and clinic. 中方申请人需根据以上合作领域选择一项申请代码填写，未按要求填写指定申请代码的申请书将不予受理。 2. 资助强度 中方资助强度每项不超过300万元人民币（直接费用），包括研究经费和国际合作交流费用等。 3. 项目执行期 3年（2019年1月至2021年12月，申请人应按管理办法要求提交项目进展报告，项目执行期结束后应提交结题报告。 4. 资助项目 至多10个。 二、申请资格 1. 中方申请人应具有高级专业技术职务（职称），应作为负责人正在承担或承担过3年期以上国家自然科学基金项目。 2. 合作双方有良好的合作基础，项目申请应体现强强合作和优势互补。 3. 瑞典合作者应符合VR对本国申请人的资格要求，并按照要求向VR提交申请。单方提交的申请将不予受理。 4. 更多关于申请资格的说明请见《2018年度国家自然科学基金项目指南》。 三、限项规定 国家自然科学基金国际（地区）合作研究项目包括组织间国际（地区）合作研究项目（以下简称组织间合作研究项目）和重点国际（地区）合作研究项目。“中瑞（NSFC-VR）合作研究项目”属于组织间合作研究项目，申请人申请时须遵循以下限项规定： 1. 申请人同年只能申请1项国际（地区）合作研究项目。 2. 上年度获得国际（地区）合作研究项目资助的项目负责人，本年度不得作为申请人申请国际（地区）合作研究项目。 3. 作为申请人申请本项目，计入具有高级专业技术职务（职称）人员申请（包括申请人和主要参与者）和正在承担（包括负责人和主要参与者）项目总数限3项的范围（参与承担或者参与申请的组织间合作研究项目除外）。 4. 《2018年度国家自然科学基金项目指南》中关于申请数量的其他限制。 四、申报要求 1. 在线填报路径： 中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），在线填报《国家自然科学基金国际（地区）合作研究项目申请书》（以下简称“中文申请书”）。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“组织间合作研究（组织间合作协议项目）”右侧的“填写申请”，进入选择“合作协议”界面，在下拉菜单中选择“中瑞（NSFC-VR）”，然后按系统要求输入依托基金项目的批准号后即进入具体申请书填写界面。申请人用中文填写中文申请书并点击提交成功后，再打印纸质申请书。 2. 除在线填写并提交中文申请书外，中方申请人须上传下列材料至中文申请书的“附件“栏中一同提交： （1） 合作双方应共同用英文撰写英文申请书，在VR系统中提交，并将提交后的最终版本作为中文申请书的附件上传至ISIS科学基金网络系统，英文申请书模板见附件2。 （2） 合作协议（协议参考范本见附件3）。合作双方须就合作内容、知识产权等双方共同关心的问题达成一致，并签署合作协议。 （3） 对于涉及伦理学的研究项目，要求申请人在申请书中提供所在单位或上级主管单位伦理委员会的纸质证明，并作为附件上传电子版。 3. 电子版申请书及附件在线提交后，经依托单位科研处审核确认后，打印系统生成的申请书及附件PDF文件2份，交办公楼515室。 4. 申请截止日期为2018年5月18日。 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请视为无效申请，如有疑问，请致电欧洲处询问。 五、结果公布 2018年底公布审批结果，获批准的合作项目自2019年1月开始执行。 六、项目联系人 中方联系人： 徐 进 Email: xujin@nsfc.gov.cn 电 话：010-6232 5351 中方申请人在线填写申请书过程中如遇到技术问题，可联系我委ISIS系统技术支持。 电 话：010-6231 7474 瑞方联系人： Marie Hillerby Email: marie.hillerby@vr.se 电 话: +46(0)8-46 44 217 Tomas Andersson Email: tomas.andersson@vr.se 电 话: +46(0)8-46 44 173 深大科技部联系人： 李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月23日
+
+#= 1
+#@ 274
+#! 关于申请2018年度国家自然科学基金委员会与英国国家科研与创新署合作研究项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与英国国家科研与创新署（UKRI）共同组织的研讨会所确定的合作内容， 2018年，双方将共同资助中英双方科学家在“抗生素耐药”领域（Antibacterial Resistance）开展的实质性合作研究项目。 一、项目说明 1. 项目设置 本项目只受理整体申请，每个项目的整体申请课题设置为3个。项目整体申请包括1份“项目申请书”和3份独立的“课题申请书”，注意项目各课题之间的有机联系，不受理针对部分研究内容或一个课题的申请。项目申请人必须是其中1个课题的申请人，负责提交“项目申请书”和所承担的“课题申请书”。课题申请人负责提交各自承担的“课题申请书”。 2. 资助领域 抗生素耐药”（Antibacterial Resistance）,领域具体说明详见附件1。 3. 申请代码 中文申请书的申请代码1必须填写H19, 不符合此要求的申请将不予受理。 4. 资助强度 项目总资助强度每项不超过900万元人民币（直接费用），而且每个课题的资助强度不超过300万元人民币（直接费用），包括研究经费和国际合作交流费用。 5. 资助项目 4个左右。 6. 项目执行期 4年（2019年1月至2022年12月），申请人应按管理办法要求提交项目进展报告，项目执行期结束后应提交结题报告。 7. 申请程序及要求：中英双方申请人须分别按照所在国资助机构的要求提交申请。 英方申请链接： https://www.mrc.ac.uk/funding/browse/china-uk-amr/china-uk-amr-partnership-hubs-2018/ 二、申请资格 1. 中方申请人（包括项目申请人和课题申请人）应具有高级专业技术职务（职称），应作为负责人正在承担或承担过3年期以上国家自然科学基金项目。 2. 中英双方有良好的合作基础，项目申请应体现强强合作和优势互补。 3. 英方合作者应符合英方机构对申请人的资格要求，并按照要求向英方提交申请。单方提交的申请将不予受理。 4. 更多关于申请资格的说明请见《2018年度国家自然科学基金项目指南》。 三、限项规定 国家自然科学基金国际（地区）合作研究项目包括组织间国际(地区)合作研究项目（以下简称组织间合作研究项目）和重点国际(地区)合作研究项目。“中英（NSFC-UKRI-MRC）合作研究项目”属于组织间合作研究项目，申请人申请时须遵循以下限项规定： 1. 项目申请人和课题申请人同年只能申请1项国际（地区）合作研究项目。 2. 上年度获得国际（地区）合作研究项目资助的项目负责人，本年度不得作为项目申请人或课题申请人申请国际(地区)合作研究项目。 3. 作为项目申请人和课题申请人申请本项目，计入具有高级专业技术职务（职称）人员申请（包括项目申请人和课题申请人）和正在承担（包括负责人和主要参与者）项目总数限3项的范围（参与承担或者参与申请的组织间合作研究项目除外）。 4.《2018年度国家自然科学基金项目指南》中关于申请数量的其他限制。 四、 申报要求 1. 在线填报中文申请书路径： 中方项目申请人和课题申请人须分别登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），用中文在线填报《国家自然科学基金国际（地区）合作研究项目申请书》（以下简称“中文申请书”）。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“组织间合作研究（组织间合作协议项目）”右侧的“填写申请”，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-UKRI-MRC项目(中英)”，然后按系统要求输入依托基金项目的批准号后即进入具体申请书填写界面。 2. 提交附件材料： （1）英文申请书(The Case for Support)：中方项目申请人和各课题申请人须与英方共同撰写英文申请书，并将英文申请书作为附件提交（英文申请书撰写说明见附件2）。 （2）双方合作协议书：中英双方项目负责人须就合作内容及知识产权等双方共同关心的问题达成一致，并提交双方项目负责人签署的合作协议（合作协议书撰写说明见附件3）。 注意：如果研究内容涉及动植物资源问题、数据管理与分享、动物/人体实验等相关问题，项目申请人与课题申请人及依托单位须严格遵守国家相关规定，并提交所在单位或上级主管单位伦理委员会的伦理批件纸质证明并将扫描件作为附件上传至ISIS系统中。 （参见：http://health.nsfc.gov.cn/XiangGuanFaGui/）。 3. 其他申报要求： （1）项目申请人及各课题申请人应当通过各自的依托单位提交申请书。 （2）“项目申请书”的英文名称须与英方提交的英文申请书的项目名称保持完全一致。 （3）如果申请人已经承担与所申请重大项目相关的重大研究计划项目和国家其他科技计划项目，应当在报告正文部分说明本申请项目与其他相关项目的区别与联系。 （4）项目申请人提交的“项目申请书”中的“主要参与者”只填写“课题负责人”相关信息；“签字和盖章页”（可根据需求增加）中，“依托单位公章”须加盖“项目申请人”所属依托单位公章，“合作研究单位公章”须加盖“课题负责人”所属依托单位公章。 （5）各课题申请人提交的“课题申请书”中的“主要参与者”包括课题所有主要成员相关信息。“签字和盖章页”中“依托单位公章”：须加盖“课题申请人”所属依托单位公章；“签字和盖章页”中“合作研究单位公章”：已经在自然科学基金委注册的合作研究单位，须加盖单位注册公章，没有注册的合作研究单位，须加盖该法人单位公章。每个课题的合作研究单位不得超过2个。 4. 申请人将以上全部材料在线填写和上传确认无误后，点击提交。经依托单位审核确认后打印系统生成的纸质申请书及附件2份，交办公楼515室。 5. 截止日期：2018年6月11日 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请将不予受理。 如有疑问，请致电欧洲处询问。 五、联系方式 国际合作局 欧洲处 联系人：邱春红 电 话：010-62327005 邮 箱：qiuch@nsfc.gov.cn 深大科技部 联系人：李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月23日
+
+#= 1
+#@ 275
+#! 关于申请国家自然科学基金“精密测量物理”重大研究计划2018年度项目的通知
+#% 各有关单位： 精密测量物理是现代物理学发展的基础、着力点和前沿，是科学问题探索和精密测量技术相互融合的结果，是解决国家相关精密测量重大需求的基础。本重大研究计划旨在针对特定的精密测量物理研究对象，以原子分子、光子为主线，构建高稳定度精密测量新体系，探索精密测量物理新概念与新原理，发展更高精度的测量方法与技术，提高基本物理学常数的测量精度，在更高精度上检验基本物理定律的适用范围。 一、科学目标 总体科学目标：进一步提升我国在精密测量领域的研究能力，促进精密测量物理领域的发展，增强精密测量物理学科整体上在国际上的影响力，其中某些方面达到国际领先水平，扩大基本物理常数测量和基本物理量测定的国际话语权。在导航定位、守时授时、资源勘探、国防安全等国家需求方面提供关键概念、方法、技术基础。在精密测量领域，为国家发展的需求造就一支高水平的研究队伍。 具体科学目标：改进现有实验体系，提升测量精度；构建原子分子冷却新体系，提出原子分子冷却以及用于精密测量的新原理与新方法；实现突破标准量子极限的测量，噪声压缩达到国际领先水平；时频测量不确定度达到10–18水平，时频比对传递精度优于10–19；更多物理常数测量值进入CODATA；等效原理和牛顿反平方定律等物理定律检验取得国际领先的结果等；在实验测量研究的基础上，获取新发现、新认识、新机理，提出新概念、新观点等。 二、核心科学问题 （一）突破标准量子极限的测量原理、方法与技术； （二）突破现有原子频标精度水平的新原理与方法； （三）突破原子精密操控和分子冷却的新机理与技术。 三、2017年度受理与资助情况 2017年度共接收申请30项，其中集成项目3项，重点支持项目6项，培育项目21项。经专家评审，有3项集成项目，3项重点支持项目，6项培育项目获得资助，资助直接费用3100万元。 四、2018年度重点资助领域和研究方向 本重大研究计划围绕核心科学问题，2018年主要以“集成项目”为主，以“培育项目”支持优秀人才为辅的形式予以资助。对已经取得重要进展的领域，以“集成项目”予以资助，以组建优势互补的科研攻关团队，实现在若干重要方向上的跨越发展。对未承担（包括参加）过“精密测量物理”重大研究计划项目的优秀年轻科研人员以“培育项目”方式予以资助，以鼓励优秀年轻科研人员从事精密测量物理研究工作。本年度拟资助以下研究方向： （一） 集成项目。 1. 超越标准量子极限的双/多参数联合测量。 科学目标：发展制备和操纵超冷原子与光场的连续变量纠缠态的新原理和新方法，利用连续变量量子纠缠态实现超越经典极限的双参数和多参量联合测量，（如同时确定复参数的实部和虚部或振幅与相位）。研究刻画和定量标定各类连续变量纠缠态对超越经典极限测量能力的有效判据，以及各种实用量子纠缠态的实验产生与验证。在超越经典极限的双/多参数估计精度上达到国际领先水平。 研究内容：发展基于超冷原子和光场连续变量的双/多参数联合测量的新机制，比较分别利用超冷原子简并气体和量子光场系统，来实现对精密测量有实用价值的连续变量原子玻色爱因斯坦凝聚体以及光场的的量子纠缠态（如各类压缩光场态以及纠缠的原子玻色凝聚体等）的制备、操控、与探测。在理论上进一步发展超越标准量子极限测量精度的双/多参数量子测量的新原理。 2. 基于多光子多自由度纠缠的超越标准量子极限测量。 科学目标：制备高效率、不可分辨性大于95%的国际最优单光子源。实现不少于12个光子的纠缠态，发展对偏振、路径和轨道角动量等多自由度的相干操控及测量技术，并以此为资源实现超越标准量子极限的量子关联测量，应用于对微转动、微相位及微频移等物理量的精密测量。针对实际应用，发展具有噪声容忍度的测量方案及相应的数据分析算法和统计工具。 研究内容：设计高效率高全同性的单光子源的新方案，优化半导体量子点腔电动力学的参数，发展侧向光学脉冲共振激发技术。制备基于脉冲参量下转换的频率无关联高纠缠度光子对，总收集效率接近100%。探索可触发地产生多光子N00N态，并用于无条件地突破标准量子极限。在理论上研究系统损耗和噪声等效应对量子精密测量的影响。 3. 高精度时间频率传递比对技术。 科学目标：利用通信光纤建立远程高精度时间频率传递和比对测量系统，开展异地不同元素光频标的频率值比对测量，支撑研究影响光频标性能的物理和技术问题、光频标性能自评估结果的确认、以及相关精密物理测量研究。 研究内容：研制成套的、满足实际运行环境需求的高精度的远程光纤时间频率传递和宽谱光梳频率测量比对仪器设备，以及超高精度的量子时间同步实验演示系统。1000公里以上实地通信光纤频率传递系统：频率传递稳定度达到E-19/d量级；宽谱光梳频率测量比对系统：实现Sr、Yb、Ca+和Al+光频标之间频率比对的宽谱光梳和E-19/d量级频率比对测量；量子时间同步演示系统：通过1km以上自由空间和20km以上实地光纤，实现时间同步优于800fs。 （二） 培育项目。 主要针对精密测量物理的重要科学问题，培养精密测量物理领域优秀年轻人才，对未承担（包括参加）过 “精密测量物理”重大研究计划项目的优秀年轻科研人员以“培育项目”方式予以资助。项目申请需有明确的科学问题、新颖的物理思想和具体的解决途径。主要研究方向如下： 1.精密测量物理中的噪声机制与抑制方法； 2.高精度原子频标的新体系； 3.时间频率的高精度传输与比对； 4.原子分子结构及精密谱； 5.量子测量的新原理与新方法； 6.超冷原子分子精密测量的原理与方法； 7.基本物理定律高精度检验的新方法； 8.物理常数和物理参量高精度测量的新方法； 9.精密测量物理关键单元技术； 10.引力波探测的新方案与新技术。 五、遴选项目的基本原则 （一）研究内容必须符合项目指南要求，针对基于原子分子光子的精密测量物理研究的科学问题开展创新性理论和实验研究。 （二）鼓励开展前沿领域探索性研究，优先支持具有原创性的精密测量物理新概念、新体系、新方法和新技术的研究。 （三）以高精度实验研究为主、注重理论与实验有机结合，研究目标要体现更高的测量精度。 六、2018年度资助计划 2018年度拟资助集成项目直接费用平均资助强度约500万元/项，资助期限3年；培育项目直接费用平均资助强度约80万元/项，资助期限3年。申请书中研究期限应填写“2019年1月1日-2021年12月31日”。 七、申报要求及注意事项 （一）申请条件。 本重大研究计划项目申请人应当具备以下条件： 1.具有承担基础研究课题的经历； 2.具有高级专业技术职务（职称）。 在站博士后研究人员、正在攻读研究生学位以及无工作单位或者所在单位不是依托单位的人员不得作为申请人进行申请。 （二）限项规定。 1.具有高级专业技术职务（职称）的人员，申请（包括申请人和主要参与者）和正在承担（包括负责人和主要参与者）以下类型项目总数合计限为3项：面上项目、重点项目、重大项目、重大研究计划项目（不包括集成项目和战略研究项目）、联合基金项目、青年科学基金项目、地区科学基金项目、优秀青年科学基金项目、国家杰出青年科学基金项目、重点国际（地区）合作研究项目、直接费用大于200万元/项的组织间国际（地区）合作研究项目（仅限作为申请人申请和作为负责人承担，作为参与者不限）、国家重大科研仪器研制项目（含承担科学仪器基础研究专款项目和国家重大科研仪器设备研制专项项目）、优秀国家重点实验室研究项目，以及资助期限超过1年的应急管理项目[ 特殊说明的除外；局（室）委托任务及软课题研究项目除外]。 优秀青年科学基金项目和国家杰出青年科学基金项目申请时不限项；正式接收申请到国家自然科学基金委员会作出资助与否决定之前，以及获资助后，计入限项。 2.申请人同年只能申请1项重大研究计划项目。上一年度获得重大研究计划项目资助的项目负责人（不包括集成项目和战略研究项目），本年度不得作为申请人申请重大研究计划项目。 （三）申请注意事项。 1.项目申请书采用在线方式撰写。对申请人具体要求如下： （1）申请人在填报申请书前，应当认真阅读本项目指南和《2018年度国家自然科学基金项目指南》的相关内容，不符合本《指南》要求的申请项目将不予受理。 （2）本重大研究计划旨在紧密围绕核心科学问题，将对多学科相关研究进行战略性的方向引导和优势整合，成为一个项目集群。申请人应根据本重大研究计划拟解决的具体科学问题和项目指南公布的拟资助研究方向，在分析国内外已有成果的基础上，明确新的突破点以及创新思路，自行拟定项目名称、科学目标、研究内容、技术路线和相应的研究经费等。申请书选题应符合本重大研究计划的实施原则，具有明确的关键科学问题。并应论述与项目指南最接近的科学问题的关系，以及对解决核心科学问题和实现项目总体目标的贡献。 （3）申请人登录科学基金网络信息系统https://isisn.nsfc.gov.cn/（没有系统账号的申请人请向依托单位基金管理联系人申请开户），按照重大研究计划申请书的撰写提纲及相关要求撰写申请书。 （4）申请书中的资助类别选择“重大研究计划”，亚类说明选择“集成项目”或“培育项目”，附注说明选择“精密测量物理”，根据申请的具体研究内容选择相应的申请代码。 培育项目的合作研究单位不得超过2个。集成项目的合作研究单位不得超过4个。集成项目主要参与者必须是重大研究计划的实际贡献者，合计人数不超过9人。 （5）申请人应当按照重大研究计划申请书的撰写提纲撰写申请书，应突出有限目标和重点突破，明确对实现本重大研究计划总体目标和解决核心科学问题的贡献。 如果申请人已经承担与本重大研究计划相关的其他科技计划项目，应当在申请书正文的“研究基础与工作条件”部分论述申请项目与其他相关项目的区别与联系。 （6）申请人应当认真阅读《2018年度国家自然科学基金项目指南》中预算编报须知的内容，严格按照《国家自然科学基金资助项目资金管理办法》《关于国家自然科学基金资助项目资金管理有关问题的补充通知》（财科教〔2016〕19号）以及《国家自然科学基金项目资金预算表编制说明》的要求，认真如实编报《国家自然科学基金项目资金预算表》。 （7）申请人完成申请书撰写后，在线提交电子申请书及附件材料，下载打印最终PDF版本申请书2份，交至办公楼515室并保证纸质申请书与电子版内容一致。 （8）申请人应及时向依托单位提交签字后的纸质申请书原件以及其他特别说明要求提交的纸质材料原件等附件。 2.截止时间：2018年5月22日。 3.本重大研究计划咨询方式： 国家自然科学基金委员会数理科学部物理（I）处 联系电话：010-62325055 深圳大学联系人：李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 （四）其他注意事项。 1.为实现重大研究计划总体科学目标和多学科集成，获得资助的项目负责人应当承诺遵守相关数据和资料管理与共享的规定，项目执行过程中应关注与本重大研究计划其他项目之间的相互支撑关系。 2.为加强项目的学术交流，促进项目群的形成和多学科交叉与集成，本重大研究计划将每年举办一次资助项目的年度学术交流会，并将不定期地组织相关领域的学术研讨会。获资助项目负责人应参加本重大研究计划指导专家组和管理工作组所组织的上述学术交流活动，并认真开展学术交流。 科学技术部 2018年4月25日
+
+#= 1
+#@ 276
+#! 关于申请2018年度国家自然科学基金委员会与俄罗斯基础研究基金会合作交流项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与俄罗斯基础研究基金会（RFBR）的基础研究合作谅解备忘录，双方在2018年将继续征集资助双边合作交流项目，具体说明和要求如下： 一、项目说明 1. 资助领域： - Mathematics, Mechanics； - Physics and Astronomy； - Chemistry and Materials Sciences； - Biology； - Earth Sciences； - Infocommunication Technologies and Computing Systems; - Fundamentals of Engineering Sciences; - Fundamentals of Medical Sciences; - Fundamentals of Agricultural Sciences. 2. 资助强度：中方资助强度为每项不超过15万元人民币，仅限经费预算表格中的第5项“差旅/会议/国际合作与交流费”栏，全部为直接经费，分两个年度拨付。 3. 资助内容：人员交流互访（含小型双边研讨会）。根据我委与RFBR双方协议，交流经费按“派出方”原则进行资助，即双方负责资助本国科学家为开展双边交流所需的出访国际旅费及国外生活费。 4. 项目执行期：2年（2019年1月～2020年12月）。 二、申请资格 1. 中方申请人须是2019年12月31日（含）以后结题的三年期（含）以上国家自然科学基金在研项目的主持人或主要参与人，并依托该研究项目进行合作，开展的双边合作交流活动应有利于在研项目的进展。 2. 中俄双方申请人须就合作进行充分沟通协商，分别向NSFC与RFBR提交申请，对于单方提交的申请，将不予受理。 3. 更多关于申请资格的说明，请见《2018年度国家自然科学基金项目指南》。 三、限项规定 1. 本项目属于国际（地区）合作交流项目，不受“高级专业技术职务（职称）人员申请和正在承担的项目总数限为3项”规定的限制。 2. 不受“申请人同年只能申请1项同类型项目”规定的限制。 3. 更多关于限项规定的说明，请见《2018年度国家自然科学基金项目指南》。 四、申报要求 1. 在线填报申请书路径 中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），在线填报《国家自然科学基金国际（地区）合作交流项目申请书》。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“合作交流（组织间协议项目）”右侧的“填写申请”按钮，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-RFBR项目（中俄）”，然后按系统要求输入依托在研基金项目的批准号，通过资格认证后即进入具体申请书填写界面。申请人完成中文申请书填写并点击提交成功后，再打印纸质申请书。 2. 在线提交附件材料 除了在线填写提交中文申请书，中方申请人还须在ISIS系统中提交附件材料，包括： 1） 双方申请人和出访人员简历； 2） 双方申请人须就合作内容、交流计划及知识产权等问题达成一致，并签署合作交流协议（协议模板见附件）。中方申请人在线填写申请时，须将该合作交流协议作为申请书附件提交ISIS科学基金网络系统。 3. 申请书填写说明 中俄双方申请书中的项目名称（中英文）、双方依托单位（中英文）和双方项目负责人（默认为“中方人信息”栏目和“境外合作人员”栏目的第一人）应严格一致。 在“项目执行计划”栏目，应按照交流年度，详细列出出访及来访人员姓名、出访及来访日期和拟开展的研究工作内容。出访人员必须是所依托在研基金项目课题组的成员，不包括学生（在职硕博研究生除外）。 在“预算说明书”栏目，应按照“项目执行计划”的内容，按交流年度为出访人员的国际旅费、在俄罗斯的住宿费、伙食费和城市间交通费制定详细预算。 4. 以上全部材料在线成功提交后，打印系统生成的PDF文件2份，交至办公楼515室。 5. 截止时间：2018年6月15日 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请视为无效申请，如有疑问，请致电欧洲处询问。 五、结果公布 2018年年底网上公布审批结果，获批准的合作项目自2019年1月1日开始执行。 六、项目联系人： 基金委联系人：徐 进 电 话：010-62325351 Email：xujin@nsfc.gov.cn 俄方联系人：Svetlana Kolchina 电 话: +7 (495) 952-55-84 E-mail: ksv@rfbr.ru 深大科技部联系人：李洁 联系电话:26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月25日
+
+#= 1
+#@ 277
+#! 关于申请2018年度国家自然科学基金委员会与英国工程与自然科学研究理事会合作研究项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与英国工程与自然科学研究理事会（EPSRC）及英国自然环境研究理事会（NERC）的双边合作协议以及共同组织的研讨会所确定的优先合作研究领域，2018年中英双方将共同资助合作研究项目，以促进中英两国科学家之间的合作与交流。 一、项目说明 1. 资助领域 2018年度合作研究项目的资助领域为“低碳制造”（Low Carbon Manufacturing），包括4个研究方向： 1） Thermal Energy Management, Recovery, Storage and Use（申请代码1须选择E05或E06下属申请代码，建议选择至三级代码）； 2） Recycling and Remanufacturing（申请代码1须选择E05下属申请代码，建议选择至三级代码）； 3） Novel Low Carbon Manufacturing Design, Production and Optimized Systems（申请代码1须选择E05下属申请代码，建议选择至三级代码）； 4） Low Carbon Manufacturing of Bulk Materials and Chemicals（申请代码1须选择E05下属申请代码，建议选择至三级代码）。 各研究方向的具体说明详见附件1。中方申请人可选择一个或多个研究方向进行申报。未按要求选择申报学科代码的申请将不予受理。 2. 资助强度 中方资助强度为不超过300万元/项（直接费用），包括研究经费和国际合作交流费用。 3. 项目执行期 3年（2019年1月至2021年12月），申请人应按管理办法要求提交项目进展报告，项目执行期结束后应提交结题报告。 4. 资助项目数 不超过4个项目。 二、申请资格 1. 中方申请人应具有高级专业技术职务（职称），应作为负责人正在承担或承担过3年期以上（含3年期）国家自然科学基金项目。 2. 中英双方有良好的合作基础，项目申请应体现强强合作和优势互补。 3. 英方合作者应符合EPSRC对本国申请人的资格要求。 4. 更多关于申请资格的说明请见《2018年度国家自然科学基金项目指南》。 三、限项规定 国家自然科学基金国际（地区）合作研究项目包括组织间国际(地区)合作研究项目（以下简称组织间合作研究项目）和重点国际(地区)合作研究项目。“NSFC-UKRI_EPSRC项目（中英）”属于组织间合作研究项目，申请人申请时须遵循以下限项规定： 1. 申请人同年只能申请1项国际（地区）合作研究项目。 2. 上年度获得国际（地区）合作研究项目资助的项目负责人，本年度不得作为申请人申请国际(地区)合作研究项目。 3. 作为申请人申请本项目，计入具有高级专业技术职务（职称）人员申请和正在承担项目总数限3项的范围（参与承担或者参与申请组织间合作研究项目不计入限3项的范围）。 4.《2018年度国家自然科学基金项目指南》中关于申请数量的其他限制。 四、申报要求 1. 申请程序 中方申请人应向国家自然科学基金委员会提交申请，英方申请人向EPSRC提交申请，单方提交的申请将不予受理。注：英方申请人须在2018年5月22日16:00（英国当地时间）前在Smart Survey系统中提交申请意向书，网址见：https://www.smartsurvey.co.uk/s/LCM_Intent_to_Submit/，请中方申请人提醒英方合作伙伴按时提交。 2. 国家自然科学基金在线填报路径 中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“组织间合作研究（组织间合作协议项目）”右侧的“填写申请”，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-UKRI_EPSRC项目（中英）”，然后按系统要求输入依托基金项目的批准号，进入具体申请书填写界面，用中文在线填报《国家自然科学基金国际（地区）合作研究项目申请书》。 3. 附件材料 除在线填写并提交中文申请书外，中方申请人须将下列材料上传至中文申请书的“附件”栏中一同提交： 1） 英文申请书（撰写要求见附件2）。中英双方应共同用英文撰写英文申请书，中英文申请书的内容须保持一致。 2） 合作协议（参考范本见附件3）。中英双方须就合作内容及知识产权等双方共同关心的问题达成一致，并签署合作协议。 4. 报送材料 中方申请人将以上全部材料在线填写和上传确认无误后，点击提交。经科技部审核确认后，打印系统生成的申请书及附件PDF文件2份，交办公楼515室。 5. 截止时间：2018年6月14日 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请将不予受理。如有疑问，请致电欧洲处询问。 五、结果公布 2018年底公布审批结果，获批准的合作项目自2019年1月开始执行。 六、项目联系人 中方联系人：李文聪 Email: liwc@nsfc.gov.cn 电话：010-6232 7014 中方申请人在线填写申请书过程中如遇到技术问题，可联系我委ISIS系统技术支持。 电话：010-6231 7474 英方联系人：Shyeni Paul Email: shyeni.paul@epsrc.ac.uk 电话：044-01793444431 Neil Bateman Email: neil.bateman@epsrc.ac.uk 电话：044-01793444496 深圳大学联系人：李洁 联系电话： 26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月23日
+
+#= 1
+#@ 278
+#! 关于申报2018 年广东省科技创新战略专项资金粤港联合资助计划项目的通知
+#% 各有关单位： 根据广东省科技厅通知，现开展2018年度广东省科技创新战略专项资金粤港联合资助计划项目申报工作（注：香港主管部门为特区政府创新科技署）。 一、专题背景 粤港联合创新领域是经与港方协商而设立，将发挥粤港各自优势，促进粤港创新资源整合，提升粤港两地自主创新能力，推动现代产业体系建设进一步完善。所设领域围绕粤港两地科技创新需求，结合两地企业与高校、科研机构的紧密联系，以及高新区、专业镇在政策、产业生态等方面的有利条件，汇聚创新资源，建设自主创新品牌。项目选取当前粤港两地科技发展热点进行联合资助，争取在战略性新兴产业技术上取得突破，进而提升粤港两地的国际竞争力。 二、专题内容 面向粤港两地，支持移动互联网、大数据技术、高端制造装备、智能机器人、新材料、新能源、节能环保（大气及水污染治理）、生物技术（脑科学）、食品安全等九个新兴技术领域。具体支持方向为以下两类： （一）、粤港创新平台建设专题（编号：20180502） 在粤共建研发机构：主要支持两地高校在广东联合设立的科技创新平台，港属大学及科研机构在广东设立的研发机构，港资企业在广东设立的省级研发中心（工程中心），广东企、事业单位与香港相关机构合作在广东设立的省级研发中心（工程中心）、省级合作基地等。总体支持不超过10项。 1、技术经济指标要求：公共服务平台类合作，应具有开展合作的良好基础和相对稳定的合作渠道，对本领域、本地区或本行业开展粤港科技合作具有服务、引导和示范作用，有利于开拓、建设粤港合作伙伴关系网。要求在本领域形成科技发展及创新热点报告至少1篇，至少设立1家联合研发机构实施联合研发，通过引进2名以上创新人才、共同培养人才不少于3人；应申请或获得授权国内发明专利或国际PCT专利3件，在国际三大索引收录期刊发表3篇以上论文等。企业为承担单位的合作基地应产生良好的经济效益。 2、审批方式、支持方式及强度：采取竞争性评审，后补助支持方式，每项资助150万元。 （二）、粤港科技合作项目专题（编号：20180503） 本专题主要支持已指定技术领域、有充分产业化前景的粤港合作项目。粤方符合条件的单位牵头申报，港方单位作为参与单位共同研发。参与合作的港方单位必须同时以牵头单位的名义向港方政府申请同一项目的经费资助，具体按港方要求进行申报，粤方作为参与单位共同研发。有关要求可登录香港创新署官网（http://www.itc.gov.hk）查询。只有双方同时申报、双方都审核通过的项目才有机会获得资助。 1、技术经济指标要求：应用基础研究类和社会公益类合作项目，应解决我省关键技术需要或社会民生问题，在国际三大索引期刊发表论文，培养研究生，申请或授权国内发明专利，或国际PCT专利，通过加强研究成果的推广应用，产生良好的社会效应或经济效益。应用开发及产业发展类合作项目，应攻克关键技术，形成具有知识产权的科技成果，申请或授权国内发明专利或国际PCT专利，培养科技合作创新人才，产生良好经济效益。 2、审批方式、支持方式及强度：采取竞争性评审，事前资助。粤方每项资助100万元；港方按港方要求评审，并提供资助。 三、申报要求 （一）申报人应具备的资格条件 1、项目申报人须熟悉本研究领域；副高以上职称，或博士毕业；项目组成员须包括合作各方1名以上成员。 2、本项目执行期为自合同签署日起不超过3年。项目组内受聘于广东单位的外籍科研人员及香港地区科研人员，其受聘期起止时间应可覆盖项目执行期，以保证有充足的时间完成科研任务。受聘的有效证明须作为附件随申报书一并通过网上提交。 （二）申报单位应具备的资格条件 1、不接受广东机构单独申报；必须联合1家或多家在港注册的机构作为合作单位共同申报。港方机构如为企业，须有相应的商业注册证明材料。 2、粤方参与合作的企业必须有相应的自筹资金投入。原则上，粤方企业应提供至少与财政专项资金等额的配套资金。申报书须附有明确的自筹经费和使用情况说明、以及盖章签字齐全的经费承诺证明公函原件。仅由科研院所或大学参与研发的项目，自筹经费不作要求。 3、申报各方应具备相应的合作渠道和能力，并保持良好的互信关系。申报材料要围绕申报项目应具备的人才团队、技术储备、科研设备、硬件条件、经费支持以及双方合作的互补性作充分说明。在申报材料中未列明前期与港方合作伙伴互动情况的项目，形式审查将不予通过。 4、牵头申报单位作为项目责任主体，应承担主要研发工作，并对财政专项资金作合理筹划和安排。本专项资金只支持在广东境内开展的研发活动，合作各方可在广东境内使用该专项资金；需在广东境外使用资金的，建议由承担单位用自筹或其它资金列支。 （三）其他要求 1、合作各方（含三方以上）需共同签订合作协议。具体要求如下：（a）须注明签字各方的姓名、单位、部门、职务及联络方式等具体信息。双方单位要加盖公章，项目负责人签字；港方单位如没有公章，至少要有项目负责人签字。（b）须包含合作期限、合作内容、各方投入、知识产权归属、分工、权益分配和签署日期等要素，权责分明；（c）约定的合作内容须与申请项目研究的内容相符；（d）采用制式模版。不接受以电子邮件或书信代替合作协议。具体要求见附件模板。 项目申报资料必须按照省科技厅阳光政务平台申报要求填写。项目申报单位及申报人可根据需要提交相关附件。原则上附件应能够对项目申报内容和方案进行佐证。所有资料都要通过网上平台提交，不接受纸质材料。 2、 经费预算。申报单位认真做好项目经费预算，申请财政资助经费的强度必须与本通知指引相同。 3、有以下情形之一的项目负责人原则上不得进行申报或通过资格审查：(1)已承担粤港联合资助项目的申报人必须完成在研所有粤港项目并通过验收后方可申请本年度项目。(2)项目负责人或企业法人有省级科技计划项目3项以上（含3项）未完成结题的或有项目逾期一年未结题的；(3)在省级财政专项资金审计、检查过程中发现重大违规行为，或有其它不良信用记录的；(4)同一项目通过变换课题名称等方式进行多头申报的；(5)项目主要内容已由该单位单独或联合其他单位申报并已获得省科技计划立项的；(6)项目未经主管部门组织推荐的。 四、申报程序 （一） 注册。项目主持人必须从各学院（部门）科研管理人员处获得用户名和密码，填写个人信息后进行申报。 （二） 申报。各申报人注册后即可通过网络提交申请书及相关附件资料。 （三） 审核推荐。深圳大学在省科技厅业务综合管理系统对申报项目择优推荐至省科技厅。 （四） 资格审查和项目评审。省科技厅委托中介机构对各主管部门推荐的项目进行资格审查和评审，择优予以支持。 凡获得资助项目，其合同书将在阳光政务平台上自动生成，先期申报书所填相关指标将不允许修改，请申报单位根据项目实际情况谨慎填写。 五、申报时间 网上申报时间与港方同步，即2018年4月26日9:00至2018年6月15日17:00（学校截止时间与科技厅限定时间一致，请各位留心，到时不要拖延）。 科技部联系人： 粤港创新平台建设专题（编号：20180502） 杨钦鹏 26532351 粤港科技合作项目专题（编号：20180503） 杨金学 26007135 科学技术部 2018年4月27日
+
+#= 1
+#@ 279
+#! 关于申请2018年度国家自然科学基金委员会与法国国家科学研究中心合作交流项目的通知
+#% 各有关单位： 根据国家自然科学基金委员会（NSFC）与法国国家科学研究中心（CNRS）的双边合作协议，双方每年共同资助中法研究人员之间在科学研究基础上开展合作交流项目（Joint Research Projects Program，CNRS-NSFC PRC Call）。 一、 项目说明 1. 资助领域：无领域限制。 2. 资助强度：中方资助强度为每项不超过人民币15万元（直接费用）。 3. 资助内容：国家自然科学基金委员会资助中国研究人员赴法的国际旅费和法国研究人员来华的住宿费、伙食费及城市间交通费。法国国家科学研究中心资助法国研究人员访华的国际旅费和中国研究人员在法的住宿费、伙食费及城市间交通费。 4. 项目执行期：3年（2019年1月至2021年12月）。 二、 申请资格 1. 中方申请人须是2019年12月31日（含）以后结题的3年期（含）以上国家自然科学基金在研项目的主持人或主要参与人，合作交流应密切围绕所依托在研基金项目的研究内容。 2. 中法双方申请人需分别向NSFC和CNRS递交项目申请，单方申请将不予受理。 三、 限项规定 1. 本项目属于国际（地区）合作交流项目，不受“高级专业技术职务（职称）人员申请和正在承担的项目总数限为3项”规定的限制。 2. 不受“申请人同年只能申请1项同类型项目”规定的限制。 3. 关于限项规定的详细说明，请见《2018年度国家自然科学基金项目指南》。 四、 申报要求 1. 在线填报中文申请书路径 中方申请人须登录ISIS科学基金网络系统（http://isisn.nsfc.gov.cn/egrantweb/），在线填报《国家自然科学基金国际（地区）合作交流项目申请书》。具体步骤是：选择“项目负责人”用户组登录系统，进入后点击“在线申请”进入申请界面；点击“新增项目申请”按钮进入项目类别选择界面；点击“国际（地区）合作与交流项目”左侧+号或者右侧“展开”按钮，展开下拉菜单；点击“合作交流（组织间协议项目）”右侧的“填写申请”按钮，进入选择“合作协议”界面，在下拉菜单中选择“NSFC-CNRS_PRC（中法）”，然后按系统要求输入依托在研基金项目的批准号，通过资格认证后即进入具体申请书填写界面。申请人用中文完成中文申请书填写并点击提交成功后，再打印纸质申请书。 2. 在线提交附件材料 除了在线填写提交中文申请书，中方申请人还须在ISIS系统中提交附件材料，包括： 1) 中方申请人和出访人员、法方申请人和来访人员的个人简历； 2) 合作协议（协议模板见附件）。中法双方申请人须就合作内容、交流计划及知识产权等问题达成一致，并签署合作交流协议。 3. 申请书填写说明 1）中法双方申请书中的项目名称（英文）、双方依托单位（中英文）和双方项目负责人（默认为“中方人信息”栏目和“境外合作人员”栏目的第一人）应严格一致。 2）在“资金预算表”栏目，申请经费仅限填写第9项“差旅/会议/国际合作与交流费”栏。 3）在“预算说明书”栏目，应按照“项目执行计划”的内容，按交流年度为出访人员的国际旅费、来访人员的住宿费、伙食费和城市间交通费制定详细预算。 4）在“项目执行计划”栏目，应按照交流年度，详细列出出访及来访人员姓名、出访及来访日期和拟开展的研究工作内容。出访人员必须是所依托在研基金项目课题组成员，不包括学生（在职博士或研究生除外）。 4. 以上全部材料在线成功提交后，经科技部审核，再打印系统生成的PDF文件及附件2份，交办公楼515室。 5. 截止时间：2018年6月22日。 注：请申请人严格遵照本项目指南的各项要求填报申请，不符合上述要求的申请不予受理，如有疑问，请致电欧洲处询问。 五、 结果公布 2018年年底网上公布审批结果，获批准的合作项目自2019年1月开始执行。 六、 项目联系人 中方联系人：邱春红 电 话：010 62327005 Email：qiuch@nsfc.gov.cn 中方ISIS系统技术支持： 电 话：010-62317474 法方联系人：FEREDJ Amel 电 话：+33 (0) 1 44 96 43 52 Email: Amel. FEREDJ@cnrs-dir.fr 深圳大学联系人：李洁 联系电话： 26532350 邮箱：lijie@szu.edu.cn 地址：办公楼515 科学技术部 2018年4月27日
+
+#= 0
+#@ 280
+#! 讲座通知：新时代中国法治
+#% 主讲嘉宾：张文显 教授 讲座时间：2018年5月8日（周二）下午3:30 讲座地点：图书馆（北馆）二楼会议室 主讲嘉宾简介： 张文显，河南南阳人，毕业于吉林大学，获法学硕士和哲学博士学位。现任中国法学会党组成员、副会长、学术委员会主任，浙江大学、吉林大学教授，国家司法文明协同创新中心理事长兼联席主任。兼任国务院学位委员会法学评议组召集人，教育部社会科学委员会法学学部召集人，全国哲学社会科学研究专家委员会委员，中央马克思主义理论研究和建设工程咨询委员会委员，浙江省法官检察官遴选委员会主任，中国法学教育研究会会长，中华司法研究会副会长。曾任吉林大学法学院院长、副校长、党委书记，吉林省高级人民法院党组书记、院长、国家二级大法官。先后主持完成国家社科基金重大课题及重点课题八项，教育部、司法部、最高人民法院、中央政法委、中国法学会重大课题九项。出版学术论著和国家教材二十余部，发表论文文章四百余篇，提交咨询建议二十余份，有十六项研究成果获得二十项国家级奖励及省部级奖励。 欢迎师生们参加！ 深圳大学法学院行政法治研究中心 2018年4月28日
+
+#= 1
+#@ 281
+#! 2018年上半年光学工程博士学位论文答辩公告（第八组）
+#% 日 期：2018年05月09日（星期三） 时 间：17:05-17: 50 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：张新海、教授、南方科技大学 苏陈良、教授、深圳大学 张登国、教授、深圳大学 李 瑛、副教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号学 号姓名指导教师论文题目12156190114王勇徐世祥二维磁性光子晶体环行器探讨及其在微波频段的实验验证 序号 学 号 姓名 指导教师 论文题目 1 2156190114 王勇 徐世祥 二维磁性光子晶体环行器探讨及其在微波频段的实验验证 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 282
+#! 2018年上半年光学工程博士学位论文答辩公告（第七组）
+#% 日 期：2018年5月8日（星期二） 时 间：10:00-11:00 地 点：科技楼1409 答辩主席：张新海、教授、南方科技大学 答辩委员：宋清海、教授、哈尔滨工业大学深圳研究生院 汪国平、教授、深圳大学 黄磊、教授、深圳大学 杜路平、教授、深圳大学 答辩秘书：张崇磊、讲师、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2156190106 杨爱萍 袁小聪 新型超分辨近场光学扫描成像基础研究及应用 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 283
+#! “不忘初心 砥砺前行”全国艺术专业学位研究生设计作品邀请展开幕
+#% 2018年4月28日下午14:00，由全国艺术专业学位研究生教学指导委员会主办，深圳大学艺术设计学院、西安美术学院承办的“不忘初心 砥砺前行”全国艺术专业学位研究生设计作品邀请展在深圳大学艺术设计学院新大楼二楼展厅开幕。 深圳大学党委副书记范志刚教授，深圳大学研究生院常务副院长汪永成教授，南京艺术学院前副院长何晓佑教授，广州美术学院副院长林蓝教授，武汉理工大学艺术与设计学院院长潘长学教授，苏州大学设计博物馆馆长李超德教授，东华大学艺术设计学院副院长冯信群教授，深圳大学艺术设计学院院长吴洪教授等领导和嘉宾参加了开幕式，活动由深圳大学艺术设计学院副院长王方良教授主持。广州美术学院副院长林蓝教授，深圳大学党委副书记范志刚教授先后致辞，最后由东华大学艺术设计学院副院长冯信群教授宣布展览开幕。 本次展览是对全国艺术专业学位研究生教学成果的全面集中展示。通过展览，观众可全面而概括地了解全国各设计院校艺术专业学位研究生教学水平和现状，有利于各院校交流互鉴、取长补短，促进各自教学水平的提高。相信本次巡回展将助推深圳大学的文化创新，成为进一步落实深圳大学《文化创新发展纲要》、加强与全国其他设计院校互相学习的有力举措，努力实现党的十九大制定的“双一流”建设和内涵式发展的高校发展战略目标。我院也将以此次交流展为契机，与兄弟院校携起手来，在新时期高校建设的新征程上，展示新作为，创造新辉煌。 展览持续到5月6日，欢迎全校师生前往参观。 与会领导嘉宾合影
+
+#= 1
+#@ 284
+#! 深圳大学艺术设计学院2018届研究生毕业作品展开幕
+#% 2018年4月28日上午10:45，“艺术设计学院2018届研究生毕业作品展”在深圳大学美术馆正式开幕。本次深圳大学设计学学位授权点评估专家何晓佑教授、林蓝教授、潘长学教授、李超德教授、冯信群教授，深圳大学师范学院院长钟曦教授、宣传部部长陈家喜教授、研究生院副院长李国教授等领导和嘉宾出席了开幕式，参加开幕式的还有艺术设计学院院长吴洪教授及院领导班子全体成员、导师代表和全体毕业研究生，活动由深圳大学艺术设计学院副院长王方良教授主持。嘉宾代表和主办方代表先后致辞，陈家喜教授宣布展览开幕。 本次研究生毕业展涵盖产品、环艺、服装、动画、视传、史论、国画、版画、油画9个专业方向73位毕业新秀的作品，是2018届同学个人才华和创作风格的体现。或恢弘，或大气，或理性，或精致，或大道至简，或出奇制胜，充分体现出我们所追求的地域、致用和先锋的特征。社会各界专业人士对本届研究生毕业作品的创新性、艺术性、规模性给予了高度评价。 展览持续到5月6日，欢迎全校师生前往参观。
+
+#= 1
+#@ 285
+#! 2018年上半年光学工程博士学位论文答辩公告（第六组）
+#% 日 期：2018年5月9日（星期三） 时 间：9:00-12:00 地 点：光电工程学院346会议室 答辩主席：何永红、教授、清华大学深圳研究院 答辩委员：于冀平、正高级工程师、深圳市计量质量检测研究院 彭文达、研究员、深圳大学光电工程学院 杨勤劳、研究员、深圳大学光电工程学院 邵永红、教授、深圳大学光电工程学院 答辩秘书：何文奇、讲师、深圳大学光电工程学院 序号 学号 姓名 指导教师 论文题目 1 2126190103 郭继平 彭翔 基于散斑投影的多节点传感整体三维自动测量技术研究 2 2116190111 王猛 彭翔 基于条纹投影的多视点三维显微测量系统研究 3 2156190104 邓定南 彭翔 数字全息显微定量相位测量技术研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 286
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十六组）
+#% 日 期：2018年5月7日（星期一） 时 间：15:30-16:00 地 点：科技楼612会议室 答辩主席：何进、教授、北京大学，北京大学深圳研究院 答辩委员：苏遵惠、正高级工程师、华功半导体有限公司 孙一翎、教授、深圳大学 吴旭、副教授、深圳技术大学 赵晓锦、副教授、深圳大学 答辩秘书：胡学娟、助理研究员、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190215 金超 刘承香 谐振式光纤陀螺数字信号检测系统设计 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 287
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十五组）
+#% 日 期：2018年5月7日（星期一） 时 间：15:00-15:30 地 点：科技楼612会议室 答辩主席：何进、教授、北京大学，北京大学深圳研究院 答辩委员：苏遵惠、正高级工程师、华功半导体有限公司 孙一翎、教授、深圳大学 吴旭、副教授、深圳技术大学 赵晓锦、副教授、深圳大学 答辩秘书：胡学娟、助理研究员、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190122 孙旭强 刘承香 谐振式光纤陀螺光路优化研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 288
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十四组）
+#% 日 期：2018年5月7日（星期一） 时 间：14:00-15:00 地 点：科技楼612会议室 答辩主席：何进、教授、北京大学，北京大学深圳研究院 答辩委员：苏遵惠、正高级工程师、华功半导体有限公司 孙一翎、教授、深圳大学 刘承香、教授、深圳大学 赵晓锦、副教授、深圳大学 答辩秘书：胡学娟、助理研究员、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190209 迟增誉 余建华 基于云平台的LED智能照明控制系统 2 2151190204 田世翔 余建华 基于可见光通信系统的智能控制技术研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 289
+#! “深趋势”产学研项目对接活动之三——深圳大学先进制造项目发布会中心成功举办
+#% 人间四月，春暖花开，创新之都，高朋满座。4月27日，在大中华国际金融中心，由深圳大学主办，深圳大学技术转移中心、福田区企业发展服务中心等单位协办的深圳大学先进制造项目发布会成功举办。该活动是“深趋势”产学研项目对接系列活动的第三场，吸引了近百名企业家、投资者参与。深圳市福田区企业发展服务中心主任冯向阳，深圳市科技企业技术转移促进会会长许立平，鼎盛创业投资管理有限公司总经理何成伟生，广东材料谷高新产业孵化器有限公司副总裁谭学军，庖丁科技众包运营副总监黄月华，深圳前海龙腾投资总监代艳，包商银行龙华支行行长刘付位振，中国宝安集团资产管理有限公司投资经理左凯，招商启航高级投资经理翁恺等出席了会议。
+
+#= 1
+#@ 290
+#! 学术报告二十八：Metric theorems for recurrence sets in dynamical sys
+#% 数学与统计学院学术报告[2018] 028号 (高水平大学建设系列报告147号) 报告题目: Metric theorems for recurrence sets in dynamical systems 报告人：李兵 教授 （华南理工大学） 报告时间：5月2日 16：00-17：00 报告地点： 科技楼514 报告内容：We consider the recurrence set for a general dynamical system with mild conditions including β-transformations, continued fraction, piecewise monotone dynamical systems, conformal repeller etc. A dichotomy for its measure is obtained. 报告人简历：李兵，男，华南理工大学教授、博士生导师。2009年7月 获得法国Picardie大学LAMFA实验室（CNRS UMR 6140）和武汉大学数学与统计学博士学位。2013年入选“千百十工”第七批培养对象,2016年入选“广东特支计划” 百千万工程青年拔尖人才。主持多项国家自然科学基金。 欢迎感兴趣的师生参加！ 数学与统计学院 2018年4月29日
+
+#= 0
+#@ 291
+#! 学术讲座---On Picards theorem and beyond
+#% 报告题目: On Picards theorem and beyond 主讲嘉宾：李宝勤 教授 主持人: 吴成发 博士 地点：深圳大学南校区基础一期207 时间：2018年5月5日（周六） 下午3:30-4:30 报告摘要: Picards theorem asserts that an entire function omitting two complex numbers must be constant. It also implies, by a simple transform, the meromorphic version of the theorem that a meromorphic function in the complex plane omitting three distinct values must be constant. Picards theorem is among the most striking results in complex analysis and plays a decisive role in the development of the theory of entire and meromorphic functions and other applications. we will give connections between Picards theorem and characterizations of entire solutions of differential equations, which does not seem to have been observed before and may lead further results on complex (ordinary and partial) differential equations. 嘉宾简介 李宝勤, 美国弗罗里达国际大学数学与统计系主任、终身教授、博士生导师。1982年获得扬州大学数学学士学位，1987年获得华东师范大学数学硕士学位，1993年获得美国马里兰大学数学博士学位. 1995-1997年，香港科技大学副教授。 1997-2003年，美国弗罗里达国际大学副教授. 2003年至今，美国里达国际大学大学教授。 李宝勤教授是International Journal of Mathematics and Mathematical Sciences, Journal of Complex Analysis 和 Pure Mathematical Sciences国际数学杂志的编委、山东大学讲座教授。2003年以来，培养了5位博士，其中2位中国人。在20余种知名数学刊物发表论文70余篇，其中34篇代表性研究的论文。
+
+#= 1
+#@ 292
+#! 范滇元院士团队张晗教授在《Advanced Optical Materials》上发表正封面论文
+#% 近日，我校范滇元院士团队张晗教授与我校徐世祥教授团队、南京理工大学曾海波教授团队合作，在少层TiS2纳米片超快光子学上的研究取得重要进展。这项工作已作为正封面论文发表在《Advanced Optical Materials》期刊上。深圳大学是第一单位和第一通信单位。论文链接如下： http://onlinelibrary.wiley.com/doi/10.1002/adom.201701166/full 在石墨烯的推动下，二维材料的光电子特性被广泛研究。然而，石墨烯吸收系数较弱，满足不了强光-物质相互作用的需求。另一方面，TiS2作为一种过渡金属硫化物，具有优异的导电性和稳定性，可用作电池电极，光热治疗和光电探测器等。但对于二维材料TiS2非线性光学的研究尚且不足。该项工作利用胶体化学合成法制备了形态均匀、小尺寸分布的二硫化钛纳米片。实验上验证了TiS2纳米片具备从可见到中红外波段的宽带可饱和吸收特性，证实了TiS2优于石墨烯的非线性吸收参数。利用这一优势，将材料应用于超短脉冲光纤激光器（在通信波段实现了1 ps脉宽的锁模脉冲输出）和全光信号处理系统（将传输脉冲信噪比由1.9 dB提升至10.68 dB）。证实了TiS2纳米片在超快激光领域有着巨大的应用潜力，有望发展为一种新型的光电功能材料。 该研究得到了深圳市黑磷光电技术工程实验室，国家自然科学基金，广东省科技计划项目等多项基金的支持。
+
+#= 1
+#@ 293
+#! 2018年上半年光学工程博士学位论文答辩公告（第五组）
+#% 日 期：2018年05月08日（星期二） 时 间：19:00-21:30 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：张新海、教授、南方科技大学 汪国平、教授、深圳大学 徐世祥、教授、深圳大学 苏陈良、教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2156190105 葛颜绮 范滇元 基于新型二维材料的超短脉冲光纤激光器研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 294
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十三组）
+#% 日 期：2018年05月09日（星期三） 时 间：14:00-17:00 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：范滇元、教授、深圳大学 张新海、教授、南方科技大学 徐世祥、教授、深圳大学 苏陈良、教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190126 蒋锐 李瑛 奇点光束的键控技术研究 2 2150190105 陈思 张晗 新型二维材料黑磷的修饰及其应用的研究 3 2150190106 梁志明 张晗 基于锑烯、硫化亚锡可饱和吸收体的摻铒光纤激光线激光器研究 4 2150190125 何智亮 张晗 张晗，Z-scan测量系统搭建与二维材料非线性光学特性研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 295
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十二组）
+#% 日 期：2018年05月09日（星期三） 时 间：9:45-12:00 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：范滇元、教授、深圳大学 张新海、教授、南方科技大学 陈惠龙、高工、深圳浩源光电科技有限公司 徐世祥、教授、深圳大学 苏陈良、教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号 学号 姓名 指导教师 论文题目 2 2151190217 黄鹏伟 章礼富 艾里脉冲在光子晶体光纤中的传输特性研究 3 2151190218 何增辉 章礼富 有限能量艾里光束在对数非线性介质中传输特性研究 4 2151190219 黎楚欣 章礼富 分数薛定谔方城下光束传输及其相互作用研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 296
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十一组）
+#% 日 期：2018年05月09日（星期三） 时 间：9:00-9:45 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：张新海、教授、南方科技大学 陈惠龙、高工、深圳浩源光电科技有限公司 徐世祥、教授、深圳大学 苏陈良、教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2151190213 林志滔 范滇元 二维材料高灵敏度折射率生物传感器的研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 297
+#! 2018年上半年光学工程硕士学位论文答辩公告（第十组）
+#% 日 期：2018年05月08日（星期二） 时 间：20:00-21:30 地 点：南区计软楼223会议室 答辩主席：文双春、教授、湖南大学 答辩委员：张新海、教授、南方科技大学 汪国平、教授、深圳大学 徐世祥、教授、深圳大学 苏陈良、教授、深圳大学 答辩秘书：许长文、助理教授、深圳大学 序号 学号 姓名 指导教师 论文题目 1 2150190107 叶勇 范滇元 化学气相沉积法制备的ws2和mos2_ws2异质结的光学性质的研究 2 2150190110 张小科 范滇元 涡旋光场的高速调控及检测研究 欢迎有兴趣的师生参加！
+
+#= 1
+#@ 298
+#! 我院2018届艺术学理论硕士学位论文答辩圆满结束
+#% 2018年4月27日下午，深圳大学2018届艺术学理论硕士学位论文答辩工作在办公楼103顺利开展。同济大学美学与艺术批评研究所所长万书元教授，云南艺术学院副院长潘红教授，浙江理工大学艺术与设计学院李桂生教授，南方科技大学党委副书记、深圳大学文化产业研究院院长李凤亮教授，文化产业研究院执行院长周建新教授，文化产业研究院教育培训部主任黄永健教授以及艺术学理论一级学科点全体师生30余人出席了此次答辩会，答辩会由答辩委员会主席万书元教授主持。 毕业答辩现场 参加此次答辩的是6位2015级艺术学理论研究生和1位在职研究生。答辩中，各位研究生分别从课题来源、研究思路、研究方法、研究意义、研究内容、研究结论等方面进行了汇报。随后，答辩委员会老师结合论文内容提问，分别指出其论文的优缺点，并对论文的修改提出了建设性意见。最后，经答辩委员会讨论决定，7位参加答辩的硕士研究生全部顺利通过硕士学位论文答辩。 毕业生答辩现场 答辩委员现场点评 答辩结束后，答辩委员会主席万书元教授对此次答辩进行了评价，他认为同学们论文选题新颖充分体现了深圳特区创新特点，希望同学们继续发挥特区优势，同时对今后学科点发展提出建设性意见。随后，艺术学理论一级学科点负责人李凤亮教授作总结讲话，认为本次艺术学理论硕士学位论文答辩中组织工作和论文质量都有较大进步，师生应继续保持良好的状态，并对今后硕士点建设和管理工作提出了更高的期望和标准，要求学生不断树立学科意识和问题意识，端正态度，珍惜硕士三年学习时光。 艺术学理论一级学科点负责人李凤亮教授作总结讲话 硕士论文答辩是研究生人才培养的一个重要环节，也是检验学生综合素质与实践创新能力的有效途径。自2011年艺术学升为学科门类以来，文化产业研究院高度重视艺术学理论的研究生教育和培养工作，人才培养质量不断提高。深圳大学顺利迎来第四届艺术学理论硕士生毕业，这是学科点导师队伍在研究生培养过程中的不懈努力和探索的结果。随着研究生培养工作体系的进一步规范和完善，我校艺术学理论一级学科点将取得更加优异的成绩。 毕业答辩结束后师生合影
+
+#= 1
+#@ 299
+#! 深圳大学艺术学理论学位授权点合格评估会顺利召开
+#% 4月27日下午，深圳大学艺术学理论学位授权点在办公楼103会议室召开合格评估专家评审会。国务院艺术学理论学科评议组成员、南京大学原校长助理、艺术学院院长周宪教授，教育部高等学校艺术学理论类专业教学指导委员会秘书长、北京大学艺术学院副院长彭锋教授，教育部高等学校艺术学理论类专业教学指导委员会委员、云南艺术学院副校长潘红教授，教育部高等学校艺术学理论类专业教学指导委员会委员、同济大学美学与艺术批评研究所所长万书元教授，教育部高等学校艺术学理论类专业教学指导委员会委员、浙江理工大学艺术与设计学院李桂生教授作为评估专家参加了评审会。深圳大学研究生院常务副院长汪永成教授、副院长李国教授、学位办徐晓玲老师，南方科技大学党委副书记、深圳大学文化产业研究院院长李凤亮教授，深圳大学文化产业研究院执行院长周建新教授以及深圳大学艺术学理论学术骨干、研究生等相关人员共30余人参加了会议，会议分两个阶段举行。 评估会现场 会议的第一阶段由文化产业研究院执行院长周建新教授主持。深圳大学艺术学理论硕士点负责人李凤亮教授代表学位点致欢迎词，他对专家的亲临指导和学校研究生院的支持表示感谢，并简短地介绍了近五年来深圳大学艺术学理论学科建设点的发展情况及存在的短板和不足，希望各位专家能够针对性地提出相关意见以便学科建设朝着更好的方向发展。 深圳大学艺术学理论硕士点负责人李凤亮教授致辞 会议的第二阶段由专家组组长、云南艺术学院副校长潘红教授主持。首先是由文化产业研究院执行院长周建新教授作学位授权点自评汇报，他从深圳大学艺术学理论学位点培养的目标和标准、基本支撑条件、人才培养情况、总体评价以及存在不足等方面做了详细介绍，并指出了制约本学位点发展的主要问题。随后，评估专家组进行了充分的讨论，并现场审阅了深圳大学艺术学理论硕士点培养方案、教学计划、师资队伍学术简历、学术团队科研成果、历年研究生毕业论文等材料，逐一针对合格评估要素做出了评价，并提出了诊断式评审意见。评审会结束后，评估专家组还与到会的艺术学理论学位授权点的导师、研究生进行了交流，了解情况，听取意见。 专家组现场审阅材料 专家组现场审阅材料 经专家组讨论商定，一致认为深圳大学艺术学理论硕士学位点建设目标定位准确、特色鲜明、管理规范、运行有序、成效显著，完全达到了艺术学理论硕士点建设的要求和水平。同时，专家组提出了四点建议。一是围绕3-5年内建成“艺术学理论”一级学科博士点和在第五轮学科评估中取得快速进步为目标，进一步加快学科队伍建设，引进学科带头人2-3名，青年学术骨干人员若干名，使专职学科队伍达到20人左右的规模。二是进一步凝练学术和培养方向，统筹基础研究与应用研究，既重视学科传承，又突出特区优势。三是按照对有潜力学科重点扶持的原则以及博士点申报的最低要求，加紧扩大硕士生招生规模，建议学校每年至少给予15个左右的招生指标。四是基于该学科点的良好基础和取得的成绩，建议学校加大经费投入和资源配置。 专家现场提出评审意见 本学位授权点拟根据评审专家的意见，优化学科发展方向，加强学科队伍建设，在重视艺术学理论基础研究方向上强化自身特色和优势，推动深圳大学艺术学理论学位点朝着更高的目标迈进。 现场合影留念
+
+#= 1
+#@ 300
+#! 关于申请深圳市2018年度深港创新圈项目的通知
+#% 各单位： 根据深圳市科技创新委员会的通知，现开始申报2018年度深圳市深港创新圈项目，请申报者登录深圳市科技创新委员会财政专项资金系统http://apply.szsti.gov.cn/在线申报，网上申报截止时间为2018年6月8日。 （一）具体申报程序： 1.未在深圳市科技创新委员会财政专项资金系统申请过账号的申报者，请把个人信息包括姓名、所在单位、身份证号及邮箱地址发送邮件至weihuilan@szu.edu.cn获取登录账号和密码。 2.已在深圳市科技创新委员会财政专项资金系统申请过账号的申报者，申报时进入系统，用组织机构代码证（45574531-6）、身份证号码和密码登录，选择“业务申请”-“科技计划”-“项目申报”-“深港创新圈联合研发项目”新建申报书。若忘记密码，请拨打系统技术支持电话（0755-86576088）找回密码，校管理员没有找回密码权限。其中单位信息和财务信息会从管理员填报的信息中直接导入，不需重复填写。计划年度选2018年度科技计划。 （二）重点支持领域及资助金额 深港两地机构合作进行的科技研发项目，包括通过深港联合评审的联合资助项目和深圳单方资助项目。重点支持领域：互联网、生物、新能源、新材料、新一代信息技术、节能环保等战略性新兴产业；海洋、航空航天、生命健康等未来产业；先进制造和涉及民生改善的科技领域。 单个项目最高资助200万元，资助比例不超过项目研发投入资金的50％。 （三）申报条件 1.申请人须先与香港的企业、高等院校、科研机构签订合作协议，明确技术、人力、设备、资金投入、知识产权归属等权利义务，共同开展研究活动。合作协议书模板可参加附件3，电子版合作协议书经科技部审核通过后，方可提交纸质版合作协议书至办公楼519盖章。 2.通过联合评审后转为深圳单方资助的项目需另行提交经费预算表，明确财政资金在港开支的金额及用途。 （四）申请材料 申请联合研发项目资助应当提供以下材料： 1.登录深圳市科技创新委员会（以下简称市科技创新委）科技业务管理系统http://apply.szsti.gov.cn/ 在线填报申请书，提供通过该系统打印的申请书纸质文件原件； 2.组织机构代码证、税务登记证、工商营业执照复印件（或具有组织机构代码、纳税人识别号、社会保险登记编码的“一照四号”营业执照复印件）（非事业单位提供） 3.事业单位登记证（事业单位提供） 4.法人代表身份证复印件（非事业单位提供）； 5.上年度完税证明复印件（非事业单位提供）； 6.上年度财务审计报告或通过审查的事业单位财务决算报表复印件（注册未满一年的可提供验资报告，验原件）； 7.项目可行性研究报告原件（由于科创委没有提供深港创新圈项目的可行性报告模板，各位申请人可参考技术攻关项目模板）； 8.香港合作单位向香港政府提交的项目申请书复印件（最终版）； 9.合作协议书复印件（验原件）（参考附件3合作协议书模板）； 10.可以选择提供知识产权证、查新报告、检测报告、获奖证书、国家省计划文件等技术水平证明材料复印件（验原件）； 11.知识产权诚信承诺书（见附件4模板）。 注意，以上单位材料由系统直接导入，无须申请人上传，提交纸质材料时，申请人可以直接在系统附件材料部分打印单位材料。 （五）纸质申请材料提交要求 网上申报书确认无误后，保存、提交并经单位审核通过后，通过系统打印申请书（包括系统生成的带水印PDF版本和指南要求的相关材料)一式3份，A4纸正反面打印/复印，非空白页（含封面）需连续编写页码，装订成册（胶装）, 并于2018年6月15日前交至校科学技术部(办公楼519室) 。 通过联合评审后转为深圳单方资助的项目需另行提交经费预算表，明确财政资金在港开支的金额及用途。 （六）注意事项 1.深圳市科技计划项目申报限项要求 本年度申报基础研究（自由探索、学科布局）、技术攻关、创业资助、深港创新圈、国际科技合作（研究开发项目）、股权投资、重点实验室、工程中心、公共技术服务平台、科技应用示范、孔雀（孔雀团队、创业资助）、创客（创客创业资助）计划的，有申报总量限制： （1）申请单位为企业的，原则上只能单独或者联合申报1项；2015年以来获得国家、广东省和部级科技奖励的企业或2016年、2017年深圳市工业百强企业，可以单独或者联合申报2项。 （2）申请单位为高校或者科研机构的，其项目组成员只能联合申报2项。 2.2018年深圳市深港创新圈项目新增深圳单方资助项目类别，由深港两地联合评审后确定。 （七）联系人 魏惠兰；电话：26536237；邮箱：weihuilan@szu.edu.cn 科学技术部 2018年4月29日
